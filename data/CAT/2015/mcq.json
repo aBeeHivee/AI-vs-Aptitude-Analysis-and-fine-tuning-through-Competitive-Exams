@@ -1,0 +1,94 @@
+{
+    "questions": [
+      {
+        "question": "A person who has a certain amount with him goes to market. He can buy 50 oranges or 40 mangoes. He retains 10% of the amount for taxi fares and buys 20 mangoes and of the balance he purchases oranges. Number of oranges he can purchase is",
+        "options": ["36", "40", "15", "20"],
+        "answer": "36"
+      },
+      {
+        "question": "For the product n (n + 1) (2n + 1), n N, which one of the following is not necessarily true?",
+        "options": ["It is even", "Divisible by 3", "Divisible by the sum of the square of first n natural numbers", "Never divisible by 237"],
+        "answer": "Never divisible by 237"
+      },
+      {
+        "question": "ABCD is a square of area 4 with diagonals AC and BD, dividing square into 4 congruent triangles. Then the sum of the perimeters of the triangles is",
+        "options": ["8(2 + √2)", "8(1+ √2)", "4(1 + √2)", "4(2 + √2)"],
+        "answer": "8(1+ √2)"
+      },
+      {
+        "question": "From a circular sheet of paper with a radius 20 cm, four circles of radius 5 cm each are cut out. What is the ratio of the uncut to the cut portion?",
+        "options": ["1: 3", "4 : 1", "3 : 1", "4 : 3"],
+        "answer": "3 : 1"
+      },
+      {
+        "question": "A wooden box (open at the top) of thickness 0.5 cm, length 21 cm, width 11 cm and height 6 cm is painted on the inside. The expenses of painting are Rs. 70. What is the rate of painting per square centimetres?",
+        "options": ["Re 0.7", "Re 0.5", "Re 0.1", "Re 0.2"],
+        "answer": "Re 0.1"
+      },
+      {
+        "question": "In a mile race, Akshay can be given a start of 128 m by Bhairav. If Bhairav can give Chinmay a start of 4 m in a 100 m dash, then who out of Akshay and Chinmay will win a race of one and half miles, and what will be the final lead given by the winner to the loser?",
+        "options": ["Akshay, 1/12 mile", "Chinmay, 1/32 mile", "Akshay, 1/24 mile", "Chinmay, 1/16 mile"],
+        "answer": "Akshay, 1/24 mile"
+      },
+      {
+        "question": "Two liquids A and B are in the ratio 5 : 1 in container 1 and 1 : 3 in container 2. In what ratio should the contents of the two containers be mixed so as to obtain a mixture of A and B in the ratio 1 : 1?",
+        "options": ["2 : 3", "4 : 3", "3 : 2", "3 : 4"],
+        "answer": "3 : 2"
+      },
+      {
+        "question": "If x^2 + y^2 = 0.1 and |x – y| = 0.2, then |x| + |y| is equal to",
+        "options": ["0.3", "0.4", "0.2", "0.6"],
+        "answer": "0.4"
+      },
+      {
+        "question": "ABCD is a rhombus with the diagonals AC and BD intersecting at the origin on the x-y plane. The equation of the straight line AD is x + y = 1. What is the equation of BC?",
+        "options": ["x + y = –1", "x – y = –1", "x + y = 1", "None of these"],
+        "answer": "x + y = –1"
+      },
+      {
+        "question": "The set of all positive integers is the union of two disjoint subsets: {f(1), f(2), ..., f(n), ...} and {g(1), g(2), ..., g(n), ...}, where f(1) < f(2) < ... < f(n) ..., and g(1) < g(2) < ... < g(n) ..., and g(n) = f(f(n)) + 1 for all n. What is the value of g(1)?",
+        "options": ["0", "2", "1", "Cannot be determined"],
+        "answer": "1"
+      },
+      {
+        "question": "Shyam went from Delhi to Shimla via Chandigarh by car. The distance from Delhi to Chandigarh is ¾ times the distance from Chandigarh to Shimla. The average speed from Delhi to Chandigarh was half as much again as that from Chandigarh to Shimla. If the average speed for the entire journey was 49 kmph. What was the average speed from Chandigarh to Shimla?",
+        "options": ["39.2 kmph", "63 kmph", "42 kmph", "None of these"],
+        "answer": "42 kmph"
+      },
+      {
+        "question": "Fourth term of an arithmetic progression is 8. What is the sum of the first 7 terms of the arithmetic progression?",
+        "options": ["7", "64", "56", "Cannot be determined"],
+        "answer": "56"
+      },
+      {
+        "question": "Two towns A and B are 100 km apart. A school is to be built for 100 students of town B and 30 students of Town A. Expenditure on transport is Rs. 1.20 per km per student. If the total expenditure on transport by all 130 students is to be as small as possible, then the school should be built at-",
+        "options": ["33 km from Town A.", "33 km from Town B", "Town A", "Town B"],
+        "answer": "33 km from Town A."
+      },
+      {
+        "question": "Let x < 0.50, 0 < y < 1, z > 1. Given a set of numbers, the middle number, when they are arranged in ascending order, is called the median. So the median of the numbers x, y, and z would be",
+        "options": ["less than one", "Between 0 and 1", "Greater than 1", "Cannot say"],
+        "answer": "Between 0 and 1"
+      },
+      {
+        "question": "Consider the set S = {1, 2, 3, . . ., 1000}. How many arithmetic progressions can be formed from the elements of S that start with 1 and end with 1000 and have at least 3 elements?",
+        "options": ["3", "4", "6", "7"],
+        "answer": "6"
+      },
+      
+          {
+            "question": "The angle of elevation of the top of a tower 30 m high, from two points on the level ground on its opposite sides are 45 degrees and 60 degrees. What is the distance between the two points?",
+            "options": ["30", "51.96", "47.32", "81.96"],
+            "answer": "51.96"
+          },
+          {
+            "question": "A survey was conducted of 100 people to find out whether they had read recent issues of Golmal, a monthly magazine. The summarized information regarding readership in 3 months is given below: Only September: 18; September but not August: 23; September and July: 8; September: 28; July: 48; July and August: 10; none of the three months: 24. What is the number of surveyed people who have read exactly two consecutive issues (out of the three)?",
+            "options": ["7", "9", "12", "14"],
+            "answer": "12"
+          }
+        
+      
+      
+    ]
+  }
+  

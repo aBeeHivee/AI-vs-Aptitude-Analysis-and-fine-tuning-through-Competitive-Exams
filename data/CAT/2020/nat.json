@@ -1,0 +1,90 @@
+{
+    "questions": [
+      {
+        "question": "How many 3-digit numbers are there, for which the product of their digits is more than 2 but less than 7?",
+        "answer": "21"
+      },
+      {
+        "question": "Veeru invested Rs 10000 at 5% simple annual interest, and exactly after two years, Joy invested Rs 8000 at 10% simple annual interest. How many years after Veeru's investment, will their balances, i.e., principal plus accumulated interest, be equal?",
+        "answer": "12"
+      },
+      {
+        "question": "The number of distinct real roots of the equation (x + 1/x)^2 - 3(x + 1/x) + 2 = 0 equals:",
+        "answer": "1"
+      },
+      {
+        "question": "A person spent Rs 50000 to purchase a desktop computer and a laptop computer. He sold the desktop at 20% profit and the laptop at 10% loss. If overall he made a 2% profit then the purchase price, in rupees, of the desktop is",
+        "answer": "20000"
+      },
+      {
+        "question": "The area of the region satisfying the inequalities |x| - y ≤ 1, y ≥ 0, and y ≤ 1 is",
+        "answer": "3"
+      },
+      {
+        "question": "On a rectangular metal sheet of area 135 sq in, a circle is painted such that the circle touches opposite two sides. If the area of the sheet left unpainted is two-thirds of the painted area then the perimeter of the rectangle in inches is",
+        "answer": "3√π(5 + 12/π)"
+      },
+      {
+        "question": "A solution, of volume 40 litres, has dye and water in the proportion 2:3. Water is added to the solution to change this proportion to 2:5. If one-fourths of this diluted solution is taken out, how many litres of dye must be added to the remaining solution to bring the proportion back to 2:3?",
+        "answer": "23:8"
+      },
+      {
+        "question": "From the interior point of an equilateral triangle, perpendiculars are drawn on all three sides. The sum of the lengths of the perpendiculars is 's'. Then the area of the triangle is",
+        "answer": "s²/√3"
+      },
+      {
+        "question": "The number of pairs of integers (x, y) satisfying x ≥ y ≥ -20 and 2x + 5y = 99 is",
+        "answer": "17"
+      },
+      {
+        "question": "If x and y are positive real numbers satisfying x + y = 102, then the minimum possible value of 2601(1 + 1/x)(1+1/y) is",
+        "answer": "2704"
+      },
+      {
+        "question": "For the same principal amount, the compound interest for two years at 5% per annum exceeds the simple interest for three years at 3% per annum by Rs 1125. Then the principal amount in rupees is",
+        "answer": "90000"
+      },
+      {
+        "question": "For real x, the maximum possible value of x/√(1+x²) is",
+        "answer": "1/√2"
+      },
+      {
+        "question": "If x and y are non-negative integers such that x + 9 = z, y + 1 = z and x + y < z + 5, then the maximum possible value of 2x + y equals",
+        "answer": "23"
+      },
+      {
+        "question": "Let C1 and C2 be concentric circles such that the diameter of C1 is 2 cm longer than that of C2. If a chord of C1 has length 6 cm and is a tangent to C2, then the diameter, in cm, of C1 is",
+        "answer": "10"
+      },
+      {
+        "question": "John takes twice as much time as Jack to finish a job. Jack and Jim together take one-third of the time to finish the job than John takes working alone. Moreover, in order to finish the job, John takes three days more than that taken by three of them working together. In how many days will Jim finish the job working alone?",
+        "answer": "4"
+      },
+      {
+        "question": "A sum of money is split among Amal, Sunil, and Mita so that the ratio of the shares of Amal and Sunil is 3:2, while the ratio of the shares of Sunil and Mita is 4:5. If the difference between the largest and the smallest of these three shares is Rs 400, then Sunil's share, in rupees, is",
+        "answer": "800"
+      },
+      {
+        "question": "How many 4-digit numbers, each greater than 1000 and each having all four digits distinct, are there with 7 coming before 3?",
+        "answer": "315"
+      },
+      {
+        "question": "Let N, x, and y be positive integers such that N = x + y, 2 < x < 10 and 14 < y < 23. If N > 25, then how many distinct values are possible for N?",
+        "answer": "6"
+      },
+      {
+        "question": "A contractor agreed to construct a 6 km road in 200 days. He employed 140 persons for the work. After 60 days, he realized that only 1.5 km road has been completed. How many additional people would he need to employ in order to finish the work exactly on time?",
+        "answer": "40"
+      },
+      {
+        "question": "Dick is thrice as old as Tom and Harry is twice as old as Dick. If Dick's age is 1 year less than the average age of all three, then Harry's age, in years, is",
+        "answer": "18"
+      },
+      {
+        "question": "If a, b, c are non-zero and 14a = 36b = 84c, then 6b(1/c - 1/a) equals to:",
+        "answer": "3"
+      }
+  
+    ]
+  }
+  

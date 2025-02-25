@@ -1,0 +1,90 @@
+{
+    "questions": [
+      {
+        "question": "If x and y are real numbers such that x² + (x − 2y − 1)² − 4y(x + y) = 0, then the value of x − 2y is:",
+        "options": ["1", "2", "-1", "0"],
+        "answer": "1"
+      },
+      {
+        "question": "Let n be the least positive integer such that 168 is a factor of 1134^n. If m is the least positive integer such that 1134^n is a factor of 168^m, then m + n equals:",
+        "options": ["24", "12", "9", "15"],
+        "answer": "15"
+      },
+      {
+        "question": "If √(5x + 9) + √(5x − 9) = 3(2 + √2), then √(10x + 9) is equal to:",
+        "options": ["3√31", "2√7", "3√7", "4√5"],
+        "answer": "3√7"
+      },
+      {
+        "question": "If x and y are positive real numbers such that log_y(x² + 12) = 4 and 3 log_y x = 1, then x + y equals:",
+        "options": ["10", "68", "20", "11"],
+        "answer": "10"
+      },
+      {
+        "question": "The number of integer solutions of the equation 2|x|(x² + 1) = 5x² is:",
+        "options": ["4", "2", "3", "5"],
+        "answer": "4"
+      },
+      {
+        "question": "The equation x³ + (2r + 1)x² + (4r − 1)x + 2 = 0 has −2 as one of the roots. If the other two roots are real, then the minimum possible non-negative integer value of r is:",
+        "options": ["1", "0", "2", "3"],
+        "answer": "1"
+      },
+      {
+        "question": "Let α and β be the two distinct roots of the equation 2x² − 6x + k = 0, such that (α+β) and αβ are the distinct roots of the equation x²+px+p = 0. Then, the value of 8(k−p) is:",
+        "options": ["12", "8", "16", "10"],
+        "answer": "8"
+      },
+      {
+        "question": "In an examination, the average marks of 4 girls and 6 boys is 24. Each of the girls has the same marks while each of the boys has the same marks. If the marks of any girl is at most double the marks of any boy, but not less than the marks of any boy, then the number of possible distinct integer values of the total marks of 2 girls and 6 boys is:",
+        "options": ["21", "19", "20", "22"],
+        "answer": "20"
+      },
+      {
+        "question": "The salaries of three friends Sita, Gita, and Mita are initially in the ratio 5:6:7, respectively. In the first year, they get salary hikes of 20%, 25%, and 20%, respectively. In the second year, Sita and Mita get salary hikes of 40% and 25%, respectively, and the salary of Gita becomes equal to the mean salary of the three friends. The salary hike of Gita in the second year is:",
+        "options": ["26%", "30%", "28%", "25%"],
+        "answer": "28%"
+      },
+      {
+        "question": "The minor angle between the hour hand and the minute hand of a clock was observed at 8:48 am. The minimum duration, in minutes, after 8:48 am when this angle increases by 50% is:",
+        "options": ["24/11", "36/11", "4", "2"],
+        "answer": "36/11"
+      },
+      {
+        "question": "Brishti went on an 8-hour trip in a car. Before the trip, the car had travelled a total of x km till then, where x is a whole number and is palindromic. At the end of the trip, the car had travelled a total of 26862 km, this number again being palindromic. If Brishti never drove at more than 110 km/h, then the greatest possible average speed at which she drove during the trip, in km/h, was:",
+        "options": ["90", "80", "100", "110"],
+        "answer": "100"
+      },
+      {
+        "question": "Gita sells two objects A and B at the same price such that she makes a profit of 20% on object A and a loss of 10% on object B. If she increases the selling price such that objects A and B are still sold at an equal price and a profit of 10% is made on object B, then the profit made on object A will be nearest to:",
+        "options": ["42%", "49%", "45%", "47%"],
+        "answer": "45%"
+      },
+      {
+        "question": "A mixture P is formed by removing a certain amount of coffee from a coffee jar and replacing the same amount with cocoa powder. The same amount is again removed from mixture P and replaced with the same amount of cocoa powder to form a new mixture Q. If the ratio of coffee and cocoa in the mixture Q is 16:9, then the ratio of cocoa in mixture P to that in mixture Q is:",
+        "options": ["4:9", "1:3", "5:9", "1:2"],
+        "answer": "5:9"
+      },
+      {
+        "question": "Anil invests Rs. 22000 for 6 years in a certain scheme with 4% interest per annum, compounded half-yearly. Sunil invests in the same scheme for 5 years, and then reinvests the entire amount received at the end of 5 years for one year at 10% simple interest. If the amounts received by both at the end of 6 years are the same, then the initial investment made by Sunil, in rupees, is:",
+        "options": ["18000", "19000", "20000", "21000"],
+        "answer": "20000"
+      },
+      {
+        "question": "The amount of job that Amal, Sunil and Kamal can individually do in a day, are in harmonic progression. Kamal takes twice as much time as Amal to do the same amount of job. If Amal and Sunil work for 4 days and 9 days, respectively, Kamal needs to work for 16 days to finish the remaining job. Then the number of days Sunil will take to finish the job working alone, is:",
+        "options": ["10", "12", "14", "15"],
+        "answer": "12"
+      },
+      {
+        "question": "Arvind travels from town A to town B, and Surbhi from town B to town A, both starting at the same time along the same route. After meeting each other, Arvind takes 6 hours to reach town B while Surbhi takes 24 hours to reach town A. If Arvind travelled at a speed of 54 km/h, then the distance, in km, between town A and town B is:",
+        "options": ["216", "324", "432", "486"],
+        "answer": "324"
+      },
+      {
+        "question": "A quadrilateral ABCD is inscribed in a circle such that AB : CD = 2:1 and BC : AD = 5:4. If AC and BD intersect at the point E, then AE : CE equals:",
+        "options": ["2:1", "1:2", "8:5", "5:8"],
+        "answer": "2:1"
+      }
+    ]
+  }
+  

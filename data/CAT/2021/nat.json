@@ -1,0 +1,72 @@
+{ "questions": [
+    {
+      "question": "The strength of an indigo solution in percentage is equal to the amount of indigo in grams per 100 cc of water. Two 800 cc bottles are filled with indigo solutions of strengths 33% and 17%, respectively. A part of the solution from the first bottle is thrown away and replaced by an equal volume of the solution from the second bottle. If the strength of the indigo solution in the first bottle has now changed to 21% then the volume, in cc, of the solution left in the second bottle is",
+      "answer": "200"
+    },
+    {
+      "question": "Amal purchases some pens at 8 each. To sell these, he hires an employee at a fixed wage. He sells 100 of these pens at 12 each. If the remaining pens are sold at 11 each, then he makes a net profit of 300, while he makes a net loss of 300 if the remaining pens are sold at 9 each. The wage of the employee, in INR, is",
+      "answer": "1000"
+    },
+    {
+      "question": "How many three-digit numbers are greater than 100 and increase by 198 when the three digits are arranged in the reverse order?",
+      "answer": "70"
+    },
+    {
+      "question": "Suppose hospital A admitted 21 less Covid infected patients than hospital B, and all eventually recovered. The sum of recovery days for patients in hospitals A and B were 200 and 152, respectively. If the average recovery days for patients admitted in hospital A was 3 more than the average in hospital B then the number admitted in hospital A was",
+      "answer": "35"
+    },
+    {
+      "question": "A circle of diameter 8 inches is inscribed in a triangle ABC where ∠ABC = 90°. If BC = 10 inches then the area of the triangle in square inches is",
+      "answer": "120"
+    },
+    {
+      "question": "The number of groups of three or more distinct numbers that can be chosen from 1, 2, 3, 4, 5, 6, 7 and 8 so that the groups always include 3 and 5, while 7 and 8 are never included together is",
+      "answer": "47"
+    },
+    {
+      "question": "Amar, Akbar and Anthony are working on a project. Working together Amar and Akbar can complete the project in 1 year, Akbar and Anthony can complete in 16 months, Anthony and Amar can complete in 2 years. If the person who is neither the fastest nor the slowest works alone, the time in months he will take to complete the project is",
+      "answer": "32"
+    },
+    {
+      "question": "Mira and Amal walk along a circular track, starting from the same point at the same time. If they walk in the same direction, then in 45 minutes, Amal completes exactly 3 more rounds than Mira. If they walk in opposite directions, then they meet for the first time exactly after 3 minutes. The number of rounds Mira walks in one hour is",
+      "answer": "8"
+    },
+    {
+      "question": "If n is a positive integer such that (√10)^(n/10)² > 999, then the smallest value of n is",
+      "answer": "6"
+    },
+    {
+      "question": "The number of distinct pairs of integers (m, n) satisfying |1 + mn| < |m + n| < 5 is",
+      "answer": "12"
+    },
+    {
+      "question": "Anil can paint a house in 12 days while Barun can paint it in 16 days. Anil, Barun, and Chandu undertake to paint the house for 24000 and the three of them together complete the painting in 6 days. If Chandu is paid in proportion to the work done by him, then the amount in INR received by him is",
+      "answer": "3000"
+    },
+    {
+      "question": "A four-digit number is formed by using only the digits 1, 2 and 3 such that both 2 and 3 appear at least once. The number of all such four-digit numbers is",
+      "answer": "50"
+    },
+    {
+      "question": "A tea shop offers tea in cups of three different sizes. The product of the prices, in INR, of three different sizes is equal to 800. The prices of the smallest size and the medium size are in the ratio 2:5. If the shop owner decides to increase the prices of the smallest and the medium ones by INR 6 keeping the price of the largest size unchanged, the product then changes to 3200. The sum of the original prices of three different sizes, in INR, is",
+      "answer": "34"
+    },
+    {
+      "question": "For a 4-digit number, the sum of its digits in the thousands, hundreds and tens places is 14, the sum of its digits in the hundreds, tens and units places is 15, and the tens place digit is 4 more than the units place digit. Then the highest possible 4-digit number satisfying the above conditions is",
+      "answer": "3"
+    },
+    {
+      "question": "A box has 450 balls, each either white or black, there being as many metallic white balls as metallic black balls. If 40% of the white balls and 50% of the black balls are metallic, then the number of non-metallic balls in the box is",
+      "answer": "250"
+    },
+    {
+      "question": "In a football tournament, a player has played a certain number of matches and 10 more matches are to be played. If he scores a total of one goal over the next 10 matches, his overall average will be 0.15 goals per match. On the other hand, if he scores a total of two goals over the next 10 matches, his overall average will be 0.2 goals per match. The number of matches he has played is",
+      "answer": "10"
+    },
+    {
+      "question": "Let D and E be points on sides AB and AC, respectively, of a triangle ABC, such that AD : BD = 2:1 and AE : CE = 2:3. If the area of the triangle ADE is 8 sq cm, then the area of the triangle ABC, in sq cm, is",
+      "answer": "30"
+    }
+]
+}
+  

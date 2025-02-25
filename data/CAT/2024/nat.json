@@ -1,0 +1,26 @@
+{
+    "questions": [
+      {
+        "question": "A train, running at a uniform speed, crosses a 240-meter-long bridge in 20 seconds and a 300-meter-long bridge in 24 seconds. Find the length of the train and its speed in meters per second.",
+        "answer": "21 m/s"
+      },
+      {
+        "question": "he sum of the digits of a two-digit number is 10. If the digits are reversed, the new number is 36 more than the original number. Find the original number.",
+        "answer": "37"
+      },
+      {
+        "question": "A group of students took an exam in three subjects: Mathematics, Physics, and Chemistry. The number of students who passed all three subjects is 25. The number of students who failed in at least one subject is twice the number of students who passed all three subjects. If the total number of students is 100, find the number of students who passed exactly two subjects. ",
+       
+        "answer": "25"
+      },
+      {
+        "question": "A bag contains red, blue, and green balls in the ratio 4:5:6. If the total number of balls in the bag is 90, how many blue balls are there?",
+       
+        "answer": "30"
+      },
+      {
+        "question": "A person spends 40% of their salary on rent, 25% on food, and 15% on other expenses. If they save ₹12,000, what is their total salary?",
+        "answer": "60,000"
+      }
+    ]
+  }

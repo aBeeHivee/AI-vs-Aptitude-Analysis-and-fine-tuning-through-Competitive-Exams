@@ -1,0 +1,149 @@
+{
+    "questions": [
+      {
+        "question": "If ‘→’ denotes increasing order of intensity, then the meaning of the words [dry → arid → parched] is analogous to [diet → fast → ________ ].Which one of the given options is appropriate to fill the blank?",
+        "options": ["starve", "reject", "feast", "deny"],
+        "answer": "starve"
+      },
+      {
+        "question": "If two distinct non-zero real variables x and y are such that (x + y) is proportional to (x - y) then the value of x/y",
+        "options": ["depends on xy", "depends only on x and not on y","depends only on y and not on x","is a constant"],
+        "answer": "is a constant"
+      },
+      {
+        "question": "Consider the following sample of numbers:9, 18, 11, 14, 15, 17, 10, 69, 11, 13The median of the sample is",
+        "options": ["13.5", "14", "11", "18.7"],
+        "answer": "13.5"
+      },
+      {
+        "question": "For positive non-zero real variables p and q, if log (p^2 + q^2) = log p + log q + 2 log 3, then the value of (p^4 + q^4) / (p^2 q^2) is:",
+        "options": ["79", "81", "9", "83"],
+        "answer": "81"
+      },
+      {
+        "question": "In the given text, the blanks are numbered (i)−(iv). Select the best match for all the blanks.\nSteve was advised to keep his head (i) before heading (ii) to bat; for, while he had a head (iii) batting, he could only do so with a cool head (iv) his shoulders.",
+        "options": [
+          "(i) down (ii) down (iii) on (iv) for",
+          "(i) on (ii) down (iii) for (iv) on",
+          "(i) down (ii) out (iii) for (iv) on",
+          "(i) on (ii) out (iii) on (iv) for"
+        ],
+        "answer": "(i) on (ii) out (iii) on (iv) for"
+      },
+      {
+        "question": "A rectangular paper sheet of dimensions 54 cm * 4 cm is taken. The two longer edges of the sheet are joined together to create a cylindrical tube. A cube whose surface area is equal to the area of the sheet is also taken. Then, the ratio of the volume of the cylindrical tube to the volume of the cube is:",
+        "options": ["1/π", "2/π", "3/π", "4/π"],
+        "answer": "1/π"
+      },
+      {
+        "question": "The total fat (all three types), in grams, this person consumes is:",
+        "options": ["44.4", "77.8", "100", "3600"],
+        "answer": "77.8"
+      },
+      {
+        "question": "A rectangular paper of 20 cm * 8 cm is folded 3 times. Each fold is made along the line of symmetry, which is perpendicular to its long edge. The perimeter of the final folded sheet (in cm) is:",
+        "options": ["18", "24", "20", "21"],
+        "answer": "18"
+      },
+      {
+        "question": "The least number of squares to be added in the figure to make AB a line of symmetry is:",
+        "options": ["6", "4", "5", "7"],
+        "answer": "6"
+      },
+      {
+        "question": "Let f: R → R be a function such that f(x) = max{x, x^3}, x ∈ R, where R is the set of all real numbers. The set of all points where f(x) is NOT differentiable is:",
+        "options": ["{-1, 1, 2}", "{-2, -1, 1}", "{0, 1}", "{-1, 0, 1}"],
+        "answer": "{-1, 0, 1}"
+      },
+      {
+        "question": "The product of all eigenvalues of the matrix [[1, 2, 3], [4, 5, 6], [7, 8, 9]] is:",
+        "options": ["-1", "0", "1", "2"],
+        "answer": "0"
+      },
+      {
+        "question": "Consider a system that uses 5 bits for representing signed integers in 2's complement format. In this system, two integers A and B are represented as A = 01010 and B = 11010. Which one of the following operations will result in either an arithmetic overflow or an arithmetic underflow?",
+        "options": ["A + B", "A - B", "B - A", "2 * B"],
+        "answer": "A - B"
+      },
+      {
+        "question": "Consider a permutation sampled uniformly at random from the set of all permutations of {1, 2, 3, ⋯ , n} for some n ≥ 4. Let X be the event that 1 occurs before 2 in the permutation, and Y the event that 3 occurs before 4. Which one of the following statements is TRUE?",
+        "options": [
+          "The events X and Y are mutually exclusive",
+          "The events X and Y are independent",
+          "Either event X or Y must occur",
+          "Event X is more likely than event Y"
+        ],
+        "answer": "The events X and Y are independent"
+      },
+      {
+        "question": "Which one of the following statements is FALSE?",
+        "options": [
+          "In the cycle stealing mode of DMA, one word of data is transferred between an I/O device and main memory in a stolen cycle",
+          "For bulk data transfer, the burst mode of DMA has a higher throughput than the cycle stealing mode",
+          "Programmed I/O mechanism has a better CPU utilization than the interrupt driven I/O mechanism",
+          "The CPU can start executing an interrupt service routine faster with vectored interrupts than with non-vectored interrupts"
+        ],
+        "answer": "Programmed I/O mechanism has a better CPU utilization than the interrupt driven I/O mechanism"
+      },
+      {
+        "question": "If ‘→’ denotes increasing order of intensity, then the meaning of the words [walk → jog → sprint] is analogous to [bothered → ________ → daunted]. Which one of the given options is appropriate to fill the blank?",
+        "options": ["phased", "phrased", "fazed", "fused"],
+        "answer": "fazed"
+      },
+      {
+        "question": "Two wizards try to create a spell using all the four elements, water, air, fire, and earth. For this, they decide to mix all these elements in all possible orders. They also decide to work independently. After trying all possible combinations of elements, they conclude that the spell does not work. How many attempts does each wizard make before coming to this conclusion, independently?",
+        "options": ["24", "48", "16", "12"],
+        "answer": "24"
+      },
+      {
+        "question": "In an engineering college of 10,000 students, 1,500 like neither their core branches nor other branches. The number of students who like their core branches is 1/4th of the number of students who like other branches. The number of students who like both their core and other branches is 500. The number of students who like their core branches is:",
+        "options": ["1,800", "3,500", "1,600", "1,500"],
+        "answer": "1,600"
+      },
+      {
+        "question": "For positive non-zero real variables x and y, if ln((x + y)/2) = (1/2) [ln(x) + ln(y)], then the value of (x/y) + (y/x) is:",
+        "options": ["1", "1/2", "2", "4"],
+        "answer": "2"
+      },
+      {
+        "question": "In the sequence 6, 9, 14, x, 30, 41, a possible value of x is:",
+        "options": ["25", "21", "18", "20"],
+        "answer": "21"
+      },
+      {
+        "question": "Sequence the following sentences in a coherent passage: P: This fortuitous geological event generated a colossal amount of energy and heat that resulted in the rocks rising to an average height of 4 km across the contact zone. Q: Thus, the geophysicists tend to think of the Himalayas as an active geological event rather than as a static geological feature. R: The natural process of the cooling of this massive edifice absorbed large quantities of atmospheric carbon dioxide, altering the earth’s atmosphere and making it better suited for life. S: Many millennia ago, a breakaway chunk of bedrock from the Antarctic Plate collided with the massive Eurasian Plate.",
+        "options": ["QPSR", "QSPR", "SPRQ", "SRPQ"],
+        "answer": "SPRQ"
+      },
+      {
+        "question": "A person sold two different items at the same price. He made 10% profit in one item, and 10% loss in the other item. In selling these two items, the person made a total of:",
+        "options": ["1% profit", "2% profit", "1% loss", "2% loss"],
+        "answer": "1% loss"
+      },
+      {
+        "question": "The pie charts depict the shares of various power generation technologies in the total electricity generation of a country for the years 2007 and 2023. Assuming that the total electricity generated remains the same from 2007 to 2023, what is the percentage increase in the share of the renewable sources of electricity generation over this period?",
+        "options": ["25%", "50%", "77.5%", "62.5%"],
+        "answer": "50%"
+      },
+      {
+        "question": "A cube is to be cut into 8 pieces of equal size and shape. Each cut should be straight and should not stop till it reaches the other end of the cube. The minimum number of such cuts required is:",
+        "options": ["3", "4", "7", "8"],
+        "answer": "3"
+      },
+      {
+        "question": "In the 4 * 4 array shown below, each cell of the first three rows has either a cross (X) or a number. The number in a cell represents the count of the immediate neighboring cells (left, right, top, bottom, diagonals) NOT having a cross (X). Given that the last row has no crosses (X), the sum of the four numbers to be filled in the last row is:",
+        "options": ["11", "10", "12", "9"],
+        "answer": "11"
+      },
+      {
+        "question": "Consider a computer with a 4 MHz processor. Its DMA controller can transfer 8 bytes in 1 cycle from a device to main memory through cycle stealing at regular intervals. Which one of the following is the data transfer rate (in bits per second) of the DMA controller if 1% of the processor cycles are used for DMA?",
+        "options": ["2,56,000", "3,200", "25,60,000", "32,000"],
+        "answer": "2,56,000"
+      },
+      {
+        "question": "Let p and q be the following propositions: p: Fail grade can be given. q: Student scores more than 50% marks. Consider the statement: 'Fail grade cannot be given when student scores more than 50% marks.' Which one of the following is the CORRECT representation of the above statement in propositional logic?",
+        "options": ["q → ¬ p", "q → p", "p → q", "¬ p → q"],
+        "answer": "q → ¬ p"
+      }
+    ]
+ }

@@ -1,0 +1,52 @@
+{
+    "questions": [
+      {
+        "question": "A bag contains 10 red balls and 15 blue balls. Two balls are drawn randomly without replacement. Given that the first ball drawn is red, the probability (rounded off to 3 decimal places) that both balls drawn are red is:",
+        "answer": "0.370"
+      },
+      {
+        "question": "In a group of 50 people, 30 speak Hindi, 20 speak English, and 10 speak both Hindi and English. How many people speak only Hindi?",
+        "answer": "20"
+      },
+      {
+        "question": "A bag contains 8 red balls and 6 blue balls. Two balls are drawn at random without replacement. The probability (rounded off to 3 decimal places) that both balls are red is:",
+        "answer": "0.311"
+      },
+      {
+        "question": "In a class of 60 students, 40 students like Mathematics, 35 like Physics, and 15 like both Mathematics and Physics. How many students like neither Mathematics nor Physics?",
+        "answer": "0"
+      },
+      {
+        "question": "A train travels 300 km in 5 hours. If the speed of the train is increased by 20 km/h, how much time (in hours) will it take to travel the same distance?",
+        "answer": "4"
+      },
+      {
+        "question": "If the sum of the ages of a father and his son is 50 years, and the father is 30 years older than the son, what is the age of the son (in years)?",
+        "answer": "10"
+      },
+      {
+        "question": "A clock shows 3:15. What is the angle (in degrees) between the hour and minute hands?",
+        "answer": "7.5"
+      },
+      {
+        "question": "In a race, Alice finishes 10 meters ahead of Bob, and Bob finishes 20 meters ahead of Charlie. If Alice finishes the race in 50 seconds, how long (in seconds) does it take Charlie to finish the race?",
+        "answer": "70"
+      },
+      {
+        "question": "If 5 workers can build a wall in 10 days, how many days will it take for 10 workers to build the same wall?",
+        "answer": "5"
+      },
+      {
+        "question": "A shopkeeper sells an item at a 20% profit. If the cost price of the item is ₹500, what is the selling price (in ₹)?",
+        "answer": "600"
+      },
+      {
+        "question": "If the ratio of the ages of two friends is 3:5 and the sum of their ages is 48 years, what is the age of the younger friend (in years)?",
+        "answer": "18"
+      },
+      {
+        "question": "Two fair coins are tossed independently. X is a random variable that takes a value of 1 if both tosses are heads and 0 otherwise. Y is a random variable that takes a value of 1 if at least one of the tosses is heads and 0 otherwise. The value of the covariance of X and Y is ______ (rounded off to three decimal places).",
+        "answer": "0.125"
+      }
+    ]
+  }

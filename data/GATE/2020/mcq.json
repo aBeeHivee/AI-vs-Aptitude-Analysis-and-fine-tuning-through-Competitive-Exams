@@ -2,48 +2,73 @@
     "questions": [
       {
         "question": "Raman is confident of speaking English _____ six months as he has been practising regularly _____ the last three weeks.",
-        "options": ["during, for", "for, since", "for, in", "within, for"],
-        "answer": "within, for"
+        "options": [
+          "(A) during, for",
+          "(B) for, since",
+          "(C) for, in",
+          "(D) within, for"
+        ],
+        "answer": "(D) within, for"
       },
       {
         "question": "His knowledge of the subject was excellent but his classroom performance was _____.",
-        "options": ["extremely poor", "good", "desirable", "praiseworthy"],
-        "answer": "extremely poor"
+        "options": [
+          "(A) extremely poor",
+          "(B) good",
+          "(C) desirable",
+          "(D) praiseworthy"
+        ],
+        "answer": "(A) extremely poor"
       },
       {
         "question": "Select the word that fits the analogy: Cook : Cook :: Fly : _____",
-        "options": ["Flyer", "Flying", "Flew", "Flighter"],
-        "answer": "Flyer"
+        "options": [
+          "(A) Flyer",
+          "(B) Flying",
+          "(C) Flew",
+          "(D) Flighter"
+        ],
+        "answer": "(A) Flyer"
       },
       {
         "question": "The dawn of the 21st century witnessed the melting glaciers oscillating between giving too much and too little to billions of people who depend on them for fresh water. The UN climate report estimates that without deep cuts to man-made emissions, at least 30% of the northern hemisphere’s surface permafrost could melt by the end of the century. Given this situation of imminent global exodus of billions of people displaced by rising seas, nation-states need to rethink their carbon footprint for political concerns, if not for environmental ones. Which one of the following statements can be inferred from the given passage?",
         "options": [
-          "Nation-states do not have environmental concerns.",
-          "Nation-states are responsible for providing fresh water to billions of people.",
-          "Billions of people are responsible for man-made emissions.",
-          "Billions of people are affected by melting glaciers."
+          "(A) Nation-states do not have environmental concerns.",
+          "(B) Nation-states are responsible for providing fresh water to billions of people.",
+          "(C) Billions of people are responsible for man-made emissions.",
+          "(D) Billions of people are affected by melting glaciers."
         ],
-        "answer": "Billions of people are affected by melting glaciers."
+        "answer": "(D) Billions of people are affected by melting glaciers."
       },
       {
         "question": "Goods and Services Tax (GST) is an indirect tax introduced in India in 2017 that is imposed on the supply of goods and services, and it subsumes all indirect taxes except few. It is a destination-based tax imposed on goods and services used, and it is not imposed at the point of origin from where goods come. GST also has a few components specific to state governments, central government and Union Territories (UTs). Which one of the following statements can be inferred from the given passage?",
         "options": [
-          "GST is imposed on the production of goods and services.",
-          "GST includes all indirect taxes.",
-          "GST does not have a component specific to UT.",
-          "GST is imposed at the point of usage of goods and services."
+          "(A) GST is imposed on the production of goods and services.",
+          "(B) GST includes all indirect taxes.",
+          "(C) GST does not have a component specific to UT.",
+          "(D) GST is imposed at the point of usage of goods and services."
         ],
-        "answer": "GST is imposed at the point of usage of goods and services."
+        "answer": "(D) GST is imposed at the point of usage of goods and services."
       },
       {
         "question": "If P = 3, R = 27, T = 243, then Q + S = _______.",
-        "options": ["40", "80", "90", "110"],
-        "answer": "90"
+        "options": [
+          "(A) 40",
+          "(B) 80",
+          "(C) 90",
+          "(D) 110"
+        ],
+        "answer": "(C) 90"
       },
       {
         "question": "Two straight lines are drawn perpendicular to each other in the X-Y plane. If 𝛼 and 𝛽 are the acute angles the straight lines make with the X-axis, then 𝛼 + 𝛽 is _____.",
-        "options": ["60°", "90°", "120°", "180°"],
-        "answer": "90°"
+        "options": [
+          "(A) 60°",
+          "(B) 90°",
+          "(C) 120°",
+          "(D) 180°"
+        ],
+        "answer": "(B) 90°"
       }
     ]
   }

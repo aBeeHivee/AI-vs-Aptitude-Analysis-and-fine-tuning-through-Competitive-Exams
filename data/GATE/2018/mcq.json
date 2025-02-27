@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "question": "From where are they bringing their books? ________ bringing _______ books from _____. The words that best fill the blanks in the above sentence are",
+        "options": [
+          "(A) Their, they're, there",
+          "(B) They're, their, there",
+          "(C) There, their, they're",
+          "(D) They're, there, there"
+        ],
+        "answer": "(B) They're, their, there"
+      },
+      {
+        "question": "A _________ investigation can sometimes yield new facts, but typically organized ones are more successful. The word that best fills the blank in the above sentence is",
+        "options": [
+          "(A) meandering",
+          "(B) timely",
+          "(C) consistent",
+          "(D) systematic"
+        ],
+        "answer": "(A) meandering"
+      },
+      {
+        "question": "The area of a square is d. What is the area of the circle which has the diagonal of the square as its diameter?",
+        "options": [
+          "(A) 𝜋𝑑",
+          "(B) 𝜋𝑑²",
+          "(C) 1/4 𝜋𝑑²",
+          "(D) 1/2 𝜋𝑑"
+        ],
+        "answer": "(D) 1/2 𝜋𝑑"
+      },
+      {
+        "question": "What would be the smallest natural number which when divided either by 20 or by 42 or by 76 leaves a remainder of 7 in each case?",
+        "options": [
+          "(A) 3047",
+          "(B) 6047",
+          "(C) 7987",
+          "(D) 63847"
+        ],
+        "answer": "(C) 7987"
+      },
+      {
+        "question": "What is the missing number in the following sequence? 2, 12, 60, 240, 720, 1440, _____, 0",
+        "options": [
+          "(A) 2880",
+          "(B) 1440",
+          "(C) 720",
+          "(D) 0"
+        ],
+        "answer": "(B) 1440"
+      },
+      {
+        "question": "In appreciation of the social improvements completed in a town, a wealthy philanthropist decided to gift Rs 750 to each male senior citizen in the town and Rs 1000 to each female senior citizen. Altogether, there were 300 senior citizens eligible for this gift. However, only 8/9th of the eligible men and 2/3rd of the eligible women claimed the gift. How much money (in Rupees) did the philanthropist give away in total?",
+        "options": [
+          "(A) 1,50,000",
+          "(B) 2,00,000",
+          "(C) 1,75,000",
+          "(D) 1,51,000"
+        ],
+        "answer": "(B) 2,00,000"
+      },
+      {
+        "question": "If pqr ≠ 0 and 𝑝⁻ˣ = 1/q, 𝑞⁻ʸ = 1/r, 𝑟⁻ᶻ = 1/p, what is the value of the product 𝑥𝑦𝑧?",
+        "options": [
+          "(A) -1",
+          "(B) 1/pqr",
+          "(C) 1",
+          "(D) pqr"
+        ],
+        "answer": "(C) 1"
+      },
+      {
+        "question": "In a party, 60% of the invited guests are male and 40% are female. If 80% of the invited guests attended the party and if all the invited female guests attended, what would be the ratio of males to females among the attendees in the party?",
+        "options": [
+          "(A) 2:3",
+          "(B) 1:1",
+          "(C) 3:2",
+          "(D) 2:1"
+        ],
+        "answer": "(B) 1:1"
+      },
+      {
+        "question": "In the figure below, ∠𝐷𝐸𝐶 + ∠𝐵𝐹𝐶 is equal to ____________ .",
+        "options": [
+          "(A) ∠𝐵𝐶𝐷 - ∠𝐵𝐴𝐷",
+          "(B) ∠𝐵𝐴𝐷 + ∠𝐵𝐶𝐹",
+          "(C) ∠𝐵𝐴𝐷 + ∠𝐵𝐶𝐷",
+          "(D) ∠𝐶𝐵𝐴 + ∠𝐴𝐷𝐶"
+        ],
+        "answer": "(A) ∠𝐵𝐶𝐷 − ∠𝐵𝐴𝐷"
+      },
+      {
+        "question": "A six sided unbiased die with four green faces and two red faces is rolled seven times. Which of the following combinations is the most likely outcome of the experiment?",
+        "options": [
+          "(A) Three green faces and four red faces.",
+          "(B) Four green faces and three red faces.",
+          "(C) Five green faces and two red faces.",
+          "(D) Six green faces and one red face."
+        ],
+        "answer": "(C) Five green faces and two red faces."
+      }
+    ]
+  }

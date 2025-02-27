@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "question": "Out of the following four sentences, select the most suitable sentence with respect to grammar and usage.",
+        "options": [
+          "(A) I will not leave the place until the minister does not meet me.",
+          "(B) I will not leave the place until the minister doesn’t meet me.",
+          "(C) I will not leave the place until the minister meet me.",
+          "(D) I will not leave the place until the minister meets me."
+        ],
+        "answer": "(D) I will not leave the place until the minister meets me."
+      },
+      {
+        "question": "A rewording of something written or spoken is a ______________.",
+        "options": [
+          "(A) paraphrase",
+          "(B) paradox",
+          "(C) paradigm",
+          "(D) paraffin"
+        ],
+        "answer": "(A) paraphrase"
+      },
+      {
+        "question": "Archimedes said, “Give me a lever long enough and a fulcrum on which to place it, and I will move the world.” The sentence above is an example of a ___________ statement.",
+        "options": [
+          "(A) figurative",
+          "(B) collateral",
+          "(C) literal",
+          "(D) figurine"
+        ],
+        "answer": "(A) figurative"
+      },
+      {
+        "question": "If ‘relftaga’ means carefree, ‘otaga’ means careful and ‘fertaga’ means careless, which of the following could mean ‘aftercare’?",
+        "options": [
+          "(A) zentaga",
+          "(B) tagafer",
+          "(C) tagazen",
+          "(D) relffer"
+        ],
+        "answer": "(B) tagafer"
+      },
+      {
+        "question": "A cube is built using 64 cubic blocks of side one unit. After it is built, one cubic block is removed from every corner of the cube. The resulting surface area of the body (in square units) after the removal is __________.",
+        "options": [
+          "(A) 56",
+          "(B) 64",
+          "(C) 72",
+          "(D) 96"
+        ],
+        "answer": "(C) 72"
+      },
+      {
+        "question": "A shaving set company sells 4 different types of razors, Elegance (Rs. 48), Smooth (Rs. 63), Soft (Rs. 78), and Executive (Rs. 173). The table below shows the numbers of each razor sold in each quarter of a year.\n\nQuarter | Elegance | Smooth | Soft | Executive\nQ1      | 27300    | 20009  | 17602| 9999\nQ2      | 25222    | 19392  | 18445| 8942\nQ3      | 28976    | 22429  | 19544| 10234\nQ4      | 21012    | 18229  | 16595| 10109\n\nWhich product contributes the greatest fraction to the revenue of the company in that year?",
+        "options": [
+          "(A) Elegance",
+          "(B) Executive",
+          "(C) Smooth",
+          "(D) Soft"
+        ],
+        "answer": "(B) Executive"
+      },
+      {
+        "question": "Indian currency notes show the denomination indicated in at least seventeen languages. If this is not an indication of the nation’s diversity, nothing else is. Which of the following can be logically inferred from the above sentences?",
+        "options": [
+          "(A) India is a country of exactly seventeen languages.",
+          "(B) Linguistic pluralism is the only indicator of a nation’s diversity.",
+          "(C) Indian currency notes have sufficient space for all the Indian languages.",
+          "(D) Linguistic pluralism is strong evidence of India’s diversity."
+        ],
+        "answer": "(D) Linguistic pluralism is strong evidence of India’s diversity."
+      },
+      {
+        "question": "Consider the following statements relating to the level of poker play of four players P, Q, R, and S.\n1. P always beats Q.\n2. R always beats S.\n3. S loses to P only sometimes.\n4. R always loses to Q.\n\nWhich of the following can be logically inferred from the above statements?\n(i) P is likely to beat all the three other players.\n(ii) S is the absolute worst player in the set.",
+        "options": [
+          "(A) (i) only",
+          "(B) (ii) only",
+          "(C) (i) and (ii)",
+          "(D) neither (i) nor (ii)"
+        ],
+        "answer": "(D) neither (i) nor (ii)"
+      },
+      {
+        "question": "If f(x) = 2x^7 + 3x - 5, which of the following is a factor of f(x)?",
+        "options": [
+          "(A) (x^3 + 8)",
+          "(B) (x - 1)",
+          "(C) (2x - 5)",
+          "(D) (x + 1)"
+        ],
+        "answer": "(B) (x - 1)"
+      },
+      {
+        "question": "In a process, the number of cycles to failure decreases exponentially with an increase in load. At a load of 80 units, it takes 100 cycles for failure. When the load is halved, it takes 10000 cycles for failure. The load for which the failure will happen in 5000 cycles is ________.",
+        "options": [
+          "(A) 40.00",
+          "(B) 46.02",
+          "(C) 60.01",
+          "(D) 92.02"
+        ],
+        "answer": "(B) 46.02"
+      },
+      {
+        "question": "The man who is now Municipal Commissioner worked as ____________________.",
+        "options": [
+          "(A) the security guard at a university",
+          "(B) a security guard at the university",
+          "(C) a security guard at university",
+          "(D) the security guard at the university"
+        ],
+        "answer": "(B) a security guard at the university"
+      },
+      {
+        "question": "Nobody knows how the Indian cricket team is going to cope with the difficult and seamer-friendly wickets in Australia. Choose the option which is closest in meaning to the underlined phrase.",
+        "options": [
+          "(A) put up with",
+          "(B) put in with",
+          "(C) put down to",
+          "(D) put up against"
+        ],
+        "answer": "(A) put up with"
+      },
+      {
+        "question": "Find the odd one in the following group of words: mock, deride, praise, jeer",
+        "options": [
+          "(A) mock",
+          "(B) deride",
+          "(C) praise",
+          "(D) jeer"
+        ],
+        "answer": "(C) praise"
+      },
+      {
+        "question": "Pick the odd one from the following options.",
+        "options": [
+          "(A) CADBE",
+          "(B) JHKIL",
+          "(C) XVYWZ",
+          "(D) ONPMQ"
+        ],
+        "answer": "(D) ONPMQ"
+      },
+      {
+        "question": "In a quadratic function, the value of the product of the roots (α, β) is 4. Find the value of (αⁿ + βⁿ) / (α^(−n) + β^(−n)).",
+        "options": [
+          "(A) 4^n",
+          "(B) 4/n",
+          "(C) 2^(2n-1)",
+          "(D) 4^(n-1)"
+        ],
+        "answer": "(A) 4^n"
+      },
+      {
+        "question": "Among 150 faculty members in an institute, 55 are connected with each other through Facebook® and 85 are connected through WhatsApp®. 30 faculty members do not have Facebook® or WhatsApp® accounts. The number of faculty members connected only through Facebook® accounts is ______________.",
+        "options": [
+          "(A) 35",
+          "(B) 45",
+          "(C) 65",
+          "(D) 90"
+        ],
+        "answer": "(A) 35"
+      },
+      {
+        "question": "Computers were invented for performing only high-end useful computations. However, it is no understatement that they have taken over our world today. The internet, for example, is ubiquitous. Many believe that the internet itself is an unintended consequence of the original invention. With the advent of mobile computing on our phones, a whole new dimension is now enabled. One is left wondering if all these developments are good or, more importantly, required. Which of the statement(s) below is/are logically valid and can be inferred from the above paragraph?\n(i) The author believes that computers are not good for us.\n(ii) Mobile computers and the internet are both intended inventions.",
+        "options": [
+          "(A) (i) only",
+          "(B) (ii) only",
+          "(C) both (i) and (ii)",
+          "(D) neither (i) nor (ii)"
+        ],
+        "answer": "(D) neither (i) nor (ii)"
+      },
+      {
+        "question": "All hill-stations have a lake. Ooty has two lakes. Which of the statement(s) below is/are logically valid and can be inferred from the above sentences?\n(i) Ooty is not a hill-station.\n(ii) No hill-station can have more than one lake.",
+        "options": [
+          "(A) (i) only",
+          "(B) (ii) only",
+          "(C) both (i) and (ii)",
+          "(D) neither (i) nor (ii)"
+        ],
+        "answer": "(D) neither (i) nor (ii)"
+      }
+    ]
+  }
+  

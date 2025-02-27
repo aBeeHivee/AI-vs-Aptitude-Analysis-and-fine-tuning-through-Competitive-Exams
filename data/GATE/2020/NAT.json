@@ -1,0 +1,38 @@
+{
+    "questions": [
+      {
+        "question": "The number of integers between 1 and 500 (both inclusive) that are divisible by 3 or 5 or 7 is ______.",
+        "answer": "271"
+      },
+      {
+        "question": "The unit digit of the number (7^{2020}) is ______.",
+        "answer": "1"
+      },
+      {
+        "question": "The number of distinct real roots of the equation (x^3 - 3x^2 + 3x - 1 = 0) is ______.",
+        "answer": "1"
+      },
+      
+      {
+        "question": "The number of ways to arrange the letters of the word 'GATE' such that no two vowels are adjacent is ______.",
+        "answer": "12"
+      },
+      
+      {
+        "question": "The smallest positive integer (n) for which (n^2 + 5n + 6) is a prime number is ______.",
+        "answer": "1"
+      },
+      {
+        "question": "The number of diagonals in a regular hexagon is ______.",
+        "answer": "9"
+      },
+      {
+        "question": "The value of (log_{10}(1000) - log_{10}(100) + log_{10}(10)) is ______.",
+        "answer": "2"
+      },
+      {
+        "question": "The area of the region bounded by the curve (y = x^2), the x-axis, and the lines (x = 1) and (x = 2) is ______.",
+        "answer": "2.3333"
+      }
+    ]
+  }

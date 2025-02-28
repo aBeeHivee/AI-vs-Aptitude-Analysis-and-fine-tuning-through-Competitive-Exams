@@ -21,12 +21,12 @@
         "answer": "(C) All personnel are being given the day off."
       },
       {
-        "question": "Consider a function 𝑓(𝑥) = 1 − |𝑥| on −1 < 𝑥 < 1. The value of 𝑥 at which the function attains a maximum and the maximum value of the function are:",
+        "question": "Consider a function f(x) = 1 - |x| on -1 < x < 1. The value of x at which the function attains a maximum and the maximum value of the function are:",
         "options": [
-          "(A) 0, −1",
-          "(B) −1, 0",
+          "(A) 0, -1",
+          "(B) -1, 0",
           "(C) 0, 1",
-          "(D) −1, 2"
+          "(D) -1, 2"
         ],
         "answer": "(C) 0, 1"
       },
@@ -51,7 +51,7 @@
         "answer": "(C) Either I or II alone is sufficient."
       },
       {
-        "question": "If the list of letters, P, R, S, T, U is an arithmetic sequence, which of the following are also in arithmetic sequence? I. 2𝑃, 2𝑅, 2𝑆, 2𝑇, 2𝑈 II. 𝑃+𝑆, 𝑅+𝑆, 𝑆+𝑇 III. 𝑃, 𝑅, 𝑆, 𝑇",
+        "question": "If the list of letters, P, R, S, T, U is an arithmetic sequence, which of the following are also in arithmetic sequence? I. 2P, 2R, 2S, 2T, 2U II. P+S, R+S, S+T III. P, R, S, T",
         "options": [
           "(A) I only",
           "(B) I and II",
@@ -73,12 +73,12 @@
       {
         "question": "In a triangle PQR, PS is the angle bisector of ∠𝑄𝑃𝑅 and ∠𝑄𝑃𝑆 = 60°. What is the length of PS?",
         "options": [
-          "(A) 𝑞𝑟/(𝑞+𝑟)",
+          "(A) qr/(q+r)",
           "(B) √(𝑞² + 𝑟²)",
-          "(C) (𝑞+𝑟)²/(𝑞+𝑟)",
-          "(D) √(𝑞𝑟)"
+          "(C) (q+r)²/(q+r)",
+          "(D) √(qr)"
         ],
-        "answer": "(A) 𝑞𝑟/(𝑞+𝑟)"
+        "answer": "(A) qr/(q+r)"
       },
       {
         "question": "A farmer divides his square field into four smaller squares by joining the midpoints of opposite sides. He further divides one of the four smaller squares in the same way. What is the ratio of the sum of the perimeters of all the squares formed to the perimeter of the original square?",

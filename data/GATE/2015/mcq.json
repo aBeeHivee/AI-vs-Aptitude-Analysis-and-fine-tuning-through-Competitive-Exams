@@ -1,0 +1,104 @@
+{
+    "questions": [
+      {
+        "question": "We ___ our friend's birthday and we ___ how to make it up to him.",
+        "options": [
+          "(A) completely forgot — don't just know",
+          "(B) forgot completely — don’t just know",
+          "(C) completely forgot — just don’t know",
+          "(D) forgot completely — just don’t know"
+        ],
+        "answer": "(C) completely forgot — just don’t know"
+      },
+      {
+        "question": "Choose the statement where the underlined word is used correctly:",
+        "options": [
+          "(A) The industrialist had a personnel jet.",
+          "(B) I wrote my experience in my personnel diary.",
+          "(C) All personnel are being given the day off.",
+          "(D) Being religious is a personnel aspect."
+        ],
+        "answer": "(C) All personnel are being given the day off."
+      },
+      {
+        "question": "Consider a function 𝑓(𝑥) = 1 − |𝑥| on −1 < 𝑥 < 1. The value of 𝑥 at which the function attains a maximum and the maximum value of the function are:",
+        "options": [
+          "(A) 0, −1",
+          "(B) −1, 0",
+          "(C) 0, 1",
+          "(D) −1, 2"
+        ],
+        "answer": "(C) 0, 1"
+      },
+      {
+        "question": "A generic term that includes various items of clothing such as a skirt, a pair of trousers, and a shirt is:",
+        "options": [
+          "(A) fabric",
+          "(B) textile",
+          "(C) fibre",
+          "(D) apparel"
+        ],
+        "answer": "(D) apparel"
+      },
+      {
+        "question": "Based on the given statements, select the most appropriate option to solve the given question: What will be the total weight of 10 poles, each of the same weight? Statements: (I) One-fourth of the weight of a pole is 5 kg. (II) The total weight of these poles is 160 kg more than the total weight of two poles.",
+        "options": [
+          "(A) Statement I alone is not sufficient.",
+          "(B) Statement II alone is not sufficient.",
+          "(C) Either I or II alone is sufficient.",
+          "(D) Both statements I and II together are not sufficient."
+        ],
+        "answer": "(C) Either I or II alone is sufficient."
+      },
+      {
+        "question": "If the list of letters, P, R, S, T, U is an arithmetic sequence, which of the following are also in arithmetic sequence? I. 2𝑃, 2𝑅, 2𝑆, 2𝑇, 2𝑈 II. 𝑃+𝑆, 𝑅+𝑆, 𝑆+𝑇 III. 𝑃, 𝑅, 𝑆, 𝑇",
+        "options": [
+          "(A) I only",
+          "(B) I and II",
+          "(C) II and III",
+          "(D) I and III"
+        ],
+        "answer": "(D) I and III"
+      },
+      {
+        "question": "Four branches of a company are located at M, N, O, and P. M is north of N at a distance of 4 km. P is south of O at a distance of 2 km. N is southeast of O by 1 km. What is the distance between M and P in km?",
+        "options": [
+          "(A) 5.34",
+          "(B) 6.74",
+          "(C) 28.5",
+          "(D) 45.49"
+        ],
+        "answer": "(B) 6.74"
+      },
+      {
+        "question": "In a triangle PQR, PS is the angle bisector of ∠𝑄𝑃𝑅 and ∠𝑄𝑃𝑆 = 60°. What is the length of PS?",
+        "options": [
+          "(A) 𝑞𝑟/(𝑞+𝑟)",
+          "(B) √(𝑞² + 𝑟²)",
+          "(C) (𝑞+𝑟)²/(𝑞+𝑟)",
+          "(D) √(𝑞𝑟)"
+        ],
+        "answer": "(A) 𝑞𝑟/(𝑞+𝑟)"
+      },
+      {
+        "question": "A farmer divides his square field into four smaller squares by joining the midpoints of opposite sides. He further divides one of the four smaller squares in the same way. What is the ratio of the sum of the perimeters of all the squares formed to the perimeter of the original square?",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 4"
+        ],
+        "answer": "(B) 2"
+      },
+      {
+        "question": "The cost price of an article is Rs. 100. The selling price is Rs. 120. What is the percentage increase in price?",
+        "options": [
+          "(A) 10%",
+          "(B) 15%",
+          "(C) 20%",
+          "(D) 25%"
+        ],
+        "answer": "(C) 20%"
+      }
+    ]
+  }

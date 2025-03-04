@@ -1,0 +1,25 @@
+{
+    "questions": [
+      {
+        "question": "The number of arrangements of six identical balls in three identical bins is ______.",
+        "answer": "7"
+      },
+      {
+        "question": "A cache memory has a hit rate of 80%, an access latency of 10 ns, and a miss penalty of 100 ns. After an optimization, the cache access latency increases to 15 ns. If the average memory access time remains unchanged, what is the minimum hit rate (rounded to two decimal places) required after the optimization?",
+        "answer": "0.85"
+      },
+      {
+        "question": "A circular array of size 100 is used to implement a queue. If the front index is 20 and the rear index is 10, how many elements are in the queue?",
+        "answer": "91"
+      },
+      {
+        "question": "For positive non-zero real variables x and y, if ln((x + y)/2) = 1/2 [ln(x) + ln(y)], then the value of (x/y) + (y/x) is ______.",
+        "answer": "2"
+      },
+      {
+        "question": "Evaluate the limit: lim(x → 0) (e^x - 1 - x)/x² = ______.",
+        "answer": "0.5"
+      }
+    ]
+  }
+  

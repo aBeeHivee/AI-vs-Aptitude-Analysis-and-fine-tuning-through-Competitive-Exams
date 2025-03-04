@@ -1,26 +1,77 @@
 {
     "questions": [
       {
-        "question": "A train, running at a uniform speed, crosses a 240-meter-long bridge in 20 seconds and a 300-meter-long bridge in 24 seconds. Find the length of the train and its speed in meters per second.",
-        "answer": "21 m/s"
+        "question": "A fruit seller has a total of 187 fruits consisting of apples, mangoes, and oranges. The number of apples and mangoes are in the ratio 5:2. After she sells 75 apples, 26 mangoes, and half of the oranges, the ratio of the number of unsold apples to the number of unsold oranges becomes 3:2. The total number of unsold fruits is",
+        "answer": "66"
       },
       {
-        "question": "he sum of the digits of a two-digit number is 10. If the digits are reversed, the new number is 36 more than the original number. Find the original number.",
-        "answer": "37"
+        "question": "Renu would take 15 days working 4 hours per day to complete a certain task whereas Seema would take 8 days working 5 hours per day to complete the same task. They decide to work together to complete this task. Seema agrees to work for double the number of hours per day as Renu, while Renu agrees to work for double the number of days as Seema. If Renu works 2 hours per day, then the number of days Seema will work is",
+        "answer": "6"
       },
       {
-        "question": "A group of students took an exam in three subjects: Mathematics, Physics, and Chemistry. The number of students who passed all three subjects is 25. The number of students who failed in at least one subject is twice the number of students who passed all three subjects. If the total number of students is 100, find the number of students who passed exactly two subjects. ",
-       
-        "answer": "25"
+        "question": "The sum of all four-digit numbers that can be formed with the distinct non-zero digits a, b, c, and d, with each digit appearing exactly once in every number, is 153310 + n, where n is a single-digit natural number. Then, the value of (a+b+c+d+n) is",
+        "answer": "31"
       },
       {
-        "question": "A bag contains red, blue, and green balls in the ratio 4:5:6. If the total number of balls in the bag is 90, how many blue balls are there?",
-       
+        "question": "There are four numbers such that the average of the first two numbers is 1 more than the first number, the average of the first three numbers is 2 more than the average of the first two numbers, and the average of the first four numbers is 3 more than the average of the first three numbers. Then, the difference between the largest and the smallest numbers is",
+        "answer": "15"
+      },
+      {
+        "question": "Two places A and B are 45 km apart and connected by a straight road. Anil goes from A to B while Sunil goes from B to A. Starting at the same time, they cross each other in exactly 1 hour 30 minutes. If Anil reaches B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is",
+        "answer": "12"
+      },
+      {
+        "question": "If x is a positive real number such that 4log10x + 4log100x + 8log1000x = 13, then the greatest integer not exceeding x is",
+        "answer": "31"
+      },
+      {
+        "question": "Amal and Vimal together can complete a task in 150 days, while Vimal and Sunil together can complete the same task in 100 days. Amal starts working on the task and works for 75 days, then Vimal takes over and works for 135 days. Finally, Sunil takes over and completes the remaining task in 45 days. If Amal had started the task alone and worked on all days, Vimal had worked on every second day, and Sunil had worked on every third day, then the number of days required to complete the task would have been",
+        "answer": "139"
+      },
+      {
+        "question": "Bina incurs a 19% loss when she sells a product at Rs. 4860 to Shyam, who in turn sells this product to Hari. If Bina would have sold this product to Shyam at the purchase price of Hari, she would have obtained a 17% profit. Then, the profit, in rupees, made by Shyam is",
+        "answer": "2160"
+      },
+      {
+        "question": "P, Q, R, and S are four towns. One can travel between P and Q along 3 direct paths, between Q and S along 4 direct paths, and between P and R along 4 direct paths. There is no direct path between P and S, while there are a few direct paths between Q and R, and between R and S. One can travel from P to S either via Q, or via R, or via Q followed by R, respectively, in exactly 62 possible ways. One can also travel from Q to R either directly, or via P, or via S, in exactly 27 possible ways. Then, the number of direct paths between Q and R is",
+        "answer": "7"
+      },
+      {
+        "question": "A fruit seller has a stock of mangoes, bananas, and apples with at least one fruit of each type. At the beginning of a day, the number of mangoes makes up 40% of his stock. That day, he sells half of the mangoes, 96 bananas, and 40% of the apples. At the end of the day, he ends up selling 50% of the fruits. The smallest possible total number of fruits in the stock at the beginning of the day is",
+        "answer": "340"
+      },
+      {
+        "question": "The coordinates of the three vertices of a triangle are: (1, 2), (7, 2), and (1, 10). Then the radius of the incircle of the triangle is",
+        "answer": "2"
+      },
+      {
+        "question": "If x and y are real numbers such that 4x^2 + 4y^2 − 4xy − 6y + 3 = 0, then the value of (4x+5y) is",
+        "answer": "7"
+      },
+      {
+        "question": "The number of distinct integer solutions (x, y) of the equation |x+y| + |x−y| = 2 is",
+        "answer": "8"
+      },
+      {
+        "question": "The midpoints of sides AB, BC, and AC in △ ABC are M, N, and P, respectively. The medians drawn from A, B, and C intersect the line segments MP, MN, and NP at X, Y, and Z, respectively. If the area of △ ABC is 1440 sq cm, then the area, in sq cm, of △ XYZ is",
+        "answer": "90"
+      },
+      {
+        "question": "A certain amount of water was poured into a 300-liter container and the remaining portion of the container was filled with milk. Then an amount of this solution was taken out from the container which was twice the volume of water that was earlier poured into it, and water was poured to refill the container again. If the resulting solution contains 72% milk, then the amount of water, in liters, that was initially poured into the container was",
         "answer": "30"
       },
       {
-        "question": "A person spends 40% of their salary on rent, 25% on food, and 15% on other expenses. If they save ₹12,000, what is their total salary?",
-        "answer": "60,000"
+        "question": "Aman invests Rs 4000 in a bank at a certain rate of interest, compounded annually. If the ratio of the value of the investment after 3 years to the value of the investment after 5 years is 25:36, then the minimum number of years required for the value of the investment to exceed Rs 20000 is",
+        "answer": "9"
+      },
+      {
+        "question": "The average of three distinct real numbers is 28. If the smallest number is increased by 7 and the largest number is reduced by 10, the order of the numbers remains unchanged, and the new arithmetic mean becomes 2 more than the middle number, while the difference between the largest and the smallest numbers becomes 64. Then, the largest number in the original set of three numbers is",
+        "answer": "70"
+      },
+      {
+        "question": "The number of all positive integers up to 500 with non-repeating digits is",
+        "answer": "378"
       }
     ]
   }
+  

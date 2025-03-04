@@ -1,0 +1,85 @@
+{
+    "questions": [
+      {
+        "question": "The expenditure on the project _____ as follows: equipment Rs.20 lakhs, salaries Rs.12 lakhs, and contingency Rs.3 lakhs.",
+        "options": [
+          "(A) break down",
+          "(B) break",
+          "(C) breaks down",
+          "(D) breaks"
+        ],
+        "answer": "(C) breaks down"
+      },
+      {
+        "question": "The search engine’s business model __________ around the fulcrum of trust.",
+        "options": [
+          "(A) revolves",
+          "(B) plays",
+          "(C) sinks",
+          "(D) bursts"
+        ],
+        "answer": "(A) revolves"
+      },
+      {
+        "question": "Two cars start at the same time from the same location and go in the same direction. The speed of the first car is 50 km/h and the speed of the second car is 60 km/h. The number of hours it takes for the distance between the two cars to be 20 km is ___.",
+        "options": [
+          "(A) 1",
+          "(B) 2",
+          "(C) 3",
+          "(D) 6"
+        ],
+        "answer": "(B) 2"
+      },
+      {
+        "question": "Ten friends planned to share equally the cost of buying a gift for their teacher. When two of them decided not to contribute, each of the other friends had to pay Rs 150 more. The cost of the gift was Rs. ____.",
+        "options": [
+          "(A) 666",
+          "(B) 3000",
+          "(C) 6000",
+          "(D) 12000"
+        ],
+        "answer": "(C) 6000"
+      },
+      {
+        "question": "A court is to a judge as __________ is to a teacher.",
+        "options": [
+          "(A) a student",
+          "(B) a punishment",
+          "(C) a syllabus",
+          "(D) a school"
+        ],
+        "answer": "(D) a school"
+      },
+      {
+        "question": "The police arrested four criminals  P, Q, R, and S. The criminals knew each other. They made the following statements:\n\n• P says: “Q committed the crime.”\n• Q says: “I do not know who did it.”\n• R says: “If S committed the crime, then Q is the culprit.”\n• S says: “What P said about me is false.”\n\nAssume that only one of these arrested four committed the crime and only one of the statements made above is true. Who committed the crime?",
+        "options": [
+          "(A) P",
+          "(B) R",
+          "(C) S",
+          "(D) Q"
+        ],
+        "answer": "(C) S"
+      },
+      {
+        "question": "“A recent High Court judgment has sought to dispel the idea of begging as a disease—which leads to stigmatization and ostracization—and to regard it as a symptom. The social security net is supposed to take care of the most vulnerable of people in society, but what we witness in action is the failure of the state to protect citizens who fall through the social security net.”\n\nWhich one of the following statements can be inferred from the given passage?",
+        "options": [
+          "(A) Beggars are lazy people who hate working because they are unwilling to work.",
+          "(B) Begging is an unfair means to take black wealth welfare schemes.",
+          "(C) Begging is a reflection of the failure of social security.",
+          "(D) Beggars do not have homes because it adversely affects the welfare of the state."
+        ],
+        "answer": "(C) Begging is a reflection of the failure of social security."
+      },
+      {
+        "question": "In a college, there are three student clubs. Sixty students are only in the Drama club, 80 students are only in the Music club, and 70 students are only in the Maths club. Additionally, 40 students are in both the Drama and Music clubs, 12 students are in both the Drama and Maths clubs, 75 students are in both the Music and Maths clubs, and 30 students are in all three clubs. If the total number of students in the college is 500, how many students are not in any of these clubs?",
+        "options": [
+          "(A) 1000",
+          "(B) 300",
+          "(C) 900",
+          "(D) 225"
+        ],
+        "answer": "(D) 225"
+      }
+    
+    ]
+  }

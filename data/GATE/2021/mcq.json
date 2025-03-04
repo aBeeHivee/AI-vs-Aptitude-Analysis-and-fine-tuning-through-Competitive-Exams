@@ -1,0 +1,120 @@
+{
+    "questions": [
+      {
+        "question": "The ratio of boys to girls in a class is 7 to 3. Among the options below, an acceptable value for the total number of students in the class is:",
+        "options": ["(A) 21", "(B) 37", "(C) 50", "(D) 73"],
+        "answer": "(C) 50"
+      },
+      {
+        "question": "A polygon is convex if, for every pair of points, P and Q belonging to the polygon, the line segment PQ lies completely inside or on the polygon. Which one of the following is NOT a convex polygon?",
+        "options": ["(A) Polygon A", "(B) Polygon B", "(C) Polygon C", "(D) Polygon D"],
+        "answer": "(A) Polygon A"
+      },
+      {
+        "question": "Consider the following sentences: (i) Everybody in the class is prepared for the exam. (ii) Babu invited Danish to his home because he enjoys playing chess. Which of the following is the CORRECT observation about the above two sentences?",
+        "options": [
+          "(A) (i) is grammatically correct and (ii) is unambiguous",
+          "(B) (i) is grammatically incorrect and (ii) is unambiguous",
+          "(C) (i) is grammatically correct and (ii) is ambiguous",
+          "(D) (i) is grammatically incorrect and (ii) is ambiguous"
+        ],
+        "answer": "(C) (i) is grammatically correct and (ii) is ambiguous"
+      },
+      {
+        "question": "A circular sheet of paper is folded along the lines in the directions shown. The paper, after being punched in the final folded state as shown and unfolded in the reverse order of folding, will look like:",
+        "options": ["(A) Option A", "(B) Option B", "(C) Option C", "(D) Option D"],
+        "answer": "(A) Option A"
+      },
+      {
+        "question": "______ is to surgery as writer is to ______. Which one of the following options maintains a similar logical relation in the above sentence?",
+        "options": [
+          "(A) Plan, outline",
+          "(B) Hospital, library",
+          "(C) Doctor, book",
+          "(D) Medicine, grammar"
+        ],
+        "answer": "(C) Doctor, book"
+      },
+      {
+        "question": "We have 2 rectangular sheets of paper, M and N, of dimensions 6 cm x 1 cm each. Sheet M is rolled to form an open cylinder by bringing the short edges of the sheet together. Sheet N is cut into equal square patches and assembled to form the largest possible closed cube. Assuming the ends of the cylinder are closed, the ratio of the volume of the cylinder to that of the cube is:",
+        "options": ["(A) 𝜋/2", "(B) 3/𝜋", "(C) 9/𝜋", "(D) 3𝜋"],
+        "answer": "(B) 3/𝜋"
+      },
+      {
+        "question": "Details of prices of two items P and Q are presented in the table. The ratio of cost of item P to cost of item Q is 3:4. Discount is calculated as the difference between the marked price and the selling price. The profit percentage is calculated as the ratio of the difference between selling price and cost, to the cost. The discount on item Q, as a percentage of its marked price, is:",
+        "options": ["(A) 25", "(B) 12.5", "(C) 10", "(D) 5"],
+        "answer": "(C) 10"
+      },
+      {
+        "question": "There are five bags each containing identical sets of ten distinct chocolates. One chocolate is picked from each bag. The probability that at least two chocolates are identical is:",
+        "options": ["(A) 0.3024", "(B) 0.4235", "(C) 0.6976", "(D) 0.8125"],
+        "answer": "(C) 0.6976"
+      },
+      {
+        "question": "Given below are two statements 1 and 2, and two conclusions I and II. Statement 1: All bacteria are microorganisms. Statement 2: All pathogens are microorganisms. Conclusion I: Some pathogens are bacteria. Conclusion II: All pathogens are not bacteria. Based on the above statements and conclusions, which one of the following options is logically CORRECT?",
+        "options": [
+          "(A) Only conclusion I is correct",
+          "(B) Only conclusion II is correct",
+          "(C) Either conclusion I or II is correct.",
+          "(D) Neither conclusion I nor II is correct."
+        ],
+        "answer": "(A) Only conclusion I is correct"
+      },
+      {
+        "question": "Some people suggest anti-obesity measures (AOM) such as displaying calorie information in restaurant menus. Such measures sidestep addressing the core problems that cause obesity: poverty and income inequality. Which one of the following statements summarizes the passage?",
+        "options": [
+          "(A) The proposed AOM addresses the core problems that cause obesity.",
+          "(B) If obesity reduces, poverty will naturally reduce, since obesity causes poverty.",
+          "(C) AOM are addressing the core problems and are likely to succeed.",
+          "(D) AOM are addressing the problem superficially."
+        ],
+        "answer": "(D) AOM are addressing the problem superficially."
+      },
+      {
+        "question": "Gauri said that she can play the keyboard ______ her sister.",
+        "options": ["(A) as well as", "(B) as better as", "(C) as nicest as", "(D) as worse as"],
+        "answer": "(A) as well as"
+      },
+      
+      {
+        "question": "If θ is the angle, in degrees, between the longest diagonal of the cube and any one of the edges of the cube, then, cos θ =",
+        "options": ["(A) 1/2", "(B) 1/√3", "(C) 1/√2", "(D) √3/2"],
+        "answer": "(B) 1/√3"
+      },
+      {
+        "question": "If (x - 2)² - (x - 3)² = x + 2, then the value of x is:",
+        "options": ["(A) 2", "(B) 4", "(C) 6", "(D) 8"],
+        "answer": "(C) 6"
+      },
+      {
+        "question": "Pen : Write :: Knife : ______. Which one of the following options maintains a similar logical relation in the above?",
+        "options": ["(A) Vegetables", "(B) Sharp", "(C) Cut", "(D) Blunt"],
+        "answer": "(C) Cut"
+      },
+      {
+        "question": "Listening to music during exercise improves exercise performance and reduces discomfort. Scientists researched whether listening to music while studying can help students learn better and the results were inconclusive. Students who needed external stimulation for studying fared worse while students who did not need any external stimulation benefited from music. Which one of the following statements is the CORRECT inference of the above passage?",
+        "options": [
+          "(A) Listening to music has no effect on learning and a positive effect on physical exercise.",
+          "(B) Listening to music has a clear positive effect both on physical exercise and on learning.",
+          "(C) Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students.",
+          "(D) Listening to music has a clear positive effect on learning in all students. Music has a positive effect only in some students who exercise."
+        ],
+        "answer": "(C) Listening to music has a clear positive effect on physical exercise. Music has a positive effect on learning only in some students."
+      },
+      {
+        "question": "The number of students in three classes is in the ratio 3:13:6. If 18 students are added to each class, the ratio changes to 15:35:21. The total number of students in all the three classes in the beginning was:",
+        "options": ["(A) 22", "(B) 66", "(C) 88", "(D) 110"],
+        "answer": "(C) 88"
+      },
+      {
+        "question": "The number of units of a product sold in three different years and the respective net profits are presented in the figure above. The cost/unit in Year 3 was ₹1, which was half the cost/unit in Year 2. The cost/unit in Year 3 was one-third of the cost/unit in Year 1. Taxes were paid on the selling price at 10%, 13% and 15% respectively for the three years. Net profit is calculated as the difference between the selling price and the sum of cost and taxes paid in that year. The ratio of the selling price in Year 2 to the selling price in Year 3 is:",
+        "options": ["(A) 4:3", "(B) 1:1", "(C) 3:4", "(D) 1:2"],
+        "answer": "(A) 4:3"
+      },
+      {
+        "question": "Six students P, Q, R, S, T and U, with distinct heights, compare their heights and make the following observations. Observation I: S is taller than R. Observation II: Q is the shortest of all. Observation III: U is taller than only one student. Observation IV: T is taller than S but is not the tallest. The number of students that are taller than R is the same as the number of students shorter than ______.",
+        "options": ["(A) T", "(B) R", "(C) S", "(D) P"],
+        "answer": "(C) S"
+      }
+    ]
+  }

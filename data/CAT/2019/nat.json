@@ -1,0 +1,124 @@
+{ "questions": [
+    {
+      "question": "In a class, 60% of the students are girls and the rest are boys. There are 30 more girls than boys. If 68% of the students, including 30 boys, pass an examination, the percentage of the girls who do not pass is?",
+      "answer": "20"
+    },
+    {
+      "question": "With rectangular axes of coordinates, the number of paths from (1,1) to (8,10) via (4,6), where each step from any point (x,y) is either to (x,y+1) or to (x+1,y) is?",
+      "answer": "3290"
+    },
+    {
+      "question": "Let T be the triangle formed by the straight line 3x + 5y - 45 = 0 and the coordinate axes. Let the circumcircle of T have radius of length L, measured in the same unit as the coordinate axes. Then, the integer closest to L is?",
+      "answer": "9"
+    },
+    {
+      "question": "For any positive integer n, let f(n) = n(n + 1) if n is even, and f(n) = n + 3 if n is odd. If m is a positive integer such that 8f(m + 1) - f(m) = 2, then m equals?",
+      "answer": "10"
+    },
+    {
+      "question": "A person invested a total amount of Rs 15 lakh. A part of it was invested in a fixed deposit earning 6% annual interest, and the remaining amount was invested in two other deposits in the ratio 2:1, earning annual interest at the rates of 4% and 3%, respectively. If the total annual interest income is Rs 76000 then the amount (in Rs lakh) invested in the fixed deposit was?",
+      "answer": "9"
+    },
+    {
+      "question": "If a1 + a2 + a3 + ... + an = 3(2^(n+1) - 2), then a11 equals?",
+      "answer": "6144"
+    },
+    {
+      "question": "In a race of three horses, the first beat the second by 11 metres and the third by 90 metres. If the second beat the third by 80 metres, what was the length, in metres, of the racecourse?",
+      "answer": "880"
+    },
+    {
+      "question": "Let S be the set of all points (x,y) in the x-y plane such that |x| + |y| ≤ 2 and |x| ≥ 1. Then, the area, in square units, of the region represented by S equals?",
+      "answer": "2"
+    },
+    {
+      "question": "The number of solutions of the equation |x|(6x^2 + 1) = 5x^2 is?",
+      "answer": "5"
+    },
+    {
+      "question": "Three men and eight machines can finish a job in half the time taken by three machines and eight men to finish the same job. If two machines can finish the job in 13 days, then how many men can finish the job in 13 days?",
+      "answer": "13"
+    },
+    {
+      "question": "Consider a function f(x+y) = f(x) f(y) where x, y are positive integers, and f(1) = 2. If f (a+1) + f (a+2) + ..... + f(a+n) = 16 (2^n -1) then a is equal to?",
+      "answer": "3"
+    },
+    {
+        "question": "In a class, 60% of the students are girls and the rest are boys. There are 30 more girls than boys. If 68% of the students, including 30 boys, pass an examination, the percentage of the girls who do not pass is?",
+        "answer": "20"
+      },
+      {
+        "question": "With rectangular axes of coordinates, the number of paths from (1,1) to (8,10) via (4,6), where each step from any point (x,y) is either to (x,y+1) or to (x+1,y) is?",
+        "answer": "3290"
+      },
+      {
+        "question": "Let T be the triangle formed by the straight line 3x + 5y - 45 = 0 and the coordinate axes. Let the circumcircle of T have radius of length L, measured in the same unit as the coordinate axes. Then, the integer closest to L is?",
+        "answer": "9"
+      },
+      {
+        "question": "For any positive integer n, let f(n) = n(n + 1) if n is even, and f(n) = n + 3 if n is odd. If m is a positive integer such that 8f(m + 1) - f(m) = 2, then m equals?",
+        "answer": "10"
+      },
+      {
+        "question": "Let f be a function such that f (mn) = f (m) f (n) for every positive integers m and n. If f (1), f(2) and f (3) are positive integers, f (1) < f (2), and f (24) = 54, then f (18) equals?",
+        "answer": "12"
+      },
+      {
+        "question": "A person invested a total amount of Rs 15 lakh. A part of it was invested in a fixed deposit earning 6% annual interest, and the remaining amount was invested in two other deposits in the ratio 2 : 1, earning annual interest at the rates of 4% and 3%, respectively. If the total annual interest income is Rs 76000 then the amount (in Rs lakh) invested in the fixed deposit was?",
+        "answer": "9"
+      },
+      {
+        "question": "John jogs on track A at 6 kmph and Mary jogs on track B at 7.5 kmph. The total length of tracks A and B is 325 metres. While John makes 9 rounds of track A, Mary makes 5 rounds of track B. In how many seconds will Mary make one round of track A?",
+        "answer": "48"
+      },
+      {
+        "question": "In an examination, the score of A was 10% less than that of B, the score of B was 25% more than that of C, and the score of C was 20% less than that of D. If A scored 72, then the score of D was?",
+        "answer": "80"
+      },
+      {
+        "question": "In a race of three horses, the first beat the second by 11 metres and the third by 90 metres. If the second beat the third by 80 metres, what was the length, in metres, of the racecourse?",
+        "answer": "880"
+      },
+      {
+        "question": "How many pairs (m,n) of positive integers satisfy the equation m^2 + 105 = n^2?",
+        "answer": "4"
+      },
+      {
+        "question": "In a six-digit number, the sixth, that is, the rightmost, digit is the sum of the first three digits, the fifth digit is the sum of first two digits, the third digit is equal to the first digit, the second digit is twice the first digit and the fourth digit is the sum of fifth and sixth digits. Then, the largest possible value of the fourth digit is?",
+        "answer": "7"
+      },
+      {
+        "question": "Let S be the set of all points (x,y) in the x-y plane such that |x| + |y| ≤ 2 and |x| ≥ 1. Then, the area, in square units, of the region represented by S equals?",
+        "answer": "2"
+      },
+      {
+        "question": "The number of solutions of the equation |x|(6x^2 + 1) = 5x^2 is?",
+        "answer": "5"
+      },
+      {
+        "question": "Three men and eight machines can finish a job in half the time taken by three machines and eight men to finish the same job. If two machines can finish the job in 13 days, then how many men can finish the job in 13 days?",
+        "answer": "13"
+      },
+      {
+        "question": "If 5^x - 3^y = 13438 and 5^(x-1) + 3^(y+1) = 9686, then x+y equals?",
+        "answer": "13"
+      },
+      {
+        "question": "Amal invests Rs 12000 at 8% interest, compounded annually, and Rs 10000 at 6% interest, compounded semi-annually, both investments being for one year. Bimal invests his money at 7.5% simple interest for one year. If Amal and Bimal get the same amount of interest, then the amount, in Rupees, invested by Bimal is?",
+        "answer": "20920"
+      },
+      {
+        "question": "Consider a function f(x+y) = f(x) f(y) where x, y are positive integers, and f(1) = 2. If f (a+1) + f (a+2) + ..... + f(a+n) = 16 (2^n - 1) then a is equal to?",
+        "answer": "3"
+      },
+      {
+        "question": "Ramesh and Gautam are among 22 students who write an examination. Ramesh scores 82.5. The average score of the 21 students other than Gautam is 62. The average score of all the 22 students is one more than the average score of the 21 students other than Ramesh. The score of Gautam is?",
+        "answer": "51"
+      },
+      {
+        "question": "John gets Rs 57 per hour of regular work and Rs 114 per hour of overtime work. He works altogether 172 hours and his income from overtime hours is 15% of his income from regular hours. Then, for how many hours did he work overtime?",
+        "answer":"12"
+      }
+  ]
+}
+  

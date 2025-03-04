@@ -1,0 +1,96 @@
+{ "questions": [
+    {
+      "question": "If f(x + 2) = f(x) + f(x + 1) for all positive integers x, and f(11) = 91, f(15) = 617, then f(10) equals?",
+      "answer": "54"
+    },
+    {
+      "question": "A CAT aspirant appears for a certain number of tests. His average score increases by 1 if the first 10 tests are not considered, and decreases by 1 if the last 10 tests are not considered. If his average scores for the first 10 and the last 10 tests are 20 and 30, respectively, then the total number of tests taken by him is?",
+      "answer": "60"
+    },
+    {
+      "question": "While multiplying three real numbers, Ashok took one of the numbers as 73 instead of 37. As a result, the product went up by 720. Then the minimum possible value of the sum of squares of the other two numbers is?",
+      "answer": "40"
+    },
+    {
+      "question": "A right circular cone, of height 12 ft, stands on its base which has diameter 8 ft. The tip of the cone is cut off with a plane which is parallel to the base and 9 ft from the base. With π = 22/7, the volume, in cubic ft, of the remaining part of the cone is?",
+      "answer": "198"
+    },
+    {
+      "question": "How many numbers with two or more digits can be formed with the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9 so that in every such number, each digit is used at most once and the digits appear in the ascending order?",
+      "answer": "502"
+    },
+    {
+      "question": "John borrowed Rs. 2,10,000 from a bank at an interest rate of 10% per annum, compounded annually. The loan was repaid in two equal installments, the first after one year and the second after another year. The first installment was interest of one year plus part of the principal amount, while the second was the rest of the principal amount plus due interest thereon. Then each installment, in Rs., is?",
+      "answer": "1,21,000"
+    },
+    {
+      "question": "Train T leaves station X for station Y at 3 pm. Train S, traveling at three quarters of the speed of T, leaves Y for X at 4 pm. The two trains pass each other at a station Z, where the distance between X and Z is three-fifths of that between X and Y. How many hours does train T take for its journey from X to Y?",
+      "answer": "15"
+    },
+    {
+      "question": "The number of integers x such that 0.25 < 2^x < 200, and 2x+2 is perfectly divisible by either 3 or 4, is?",
+      "answer": "5"
+    },
+    {
+      "question": "Each of 74 students in a class studies at least one of the three subjects H, E and P. Ten students study all three subjects, while twenty study H and E, but not P. Every student who studies P also studies H or E or both. If the number of students studying H equals that studying E, then the number of students studying H is?",
+      "answer": "52"
+    },
+    {
+      "question": "A tank is fitted with pipes, some filling it and the rest draining it. All filling pipes fill at the same rate, and all draining pipes drain at the same rate. The empty tank gets completely filled in 6 hours when 6 filling and 5 draining pipes are on, but this time becomes 60 hours when 5 filling and 6 draining pipes are on. In how many hours will the empty tank get completely filled when one draining and two filling pipes are on?",
+      "answer": "10"
+    },
+    {
+      "question": "Let f(x)=min{2x2, 52 - 5x}, where x is any positive real number. Then the maximum possible value of f(x) is?",
+      "answer": "32"
+    },
+    {
+        "question": "On a triangle ABC, a circle with diameter BC is drawn, intersecting AB and AC at points P and Q, respectively. If the lengths of AB, AC, and CP are 30 cm, 25 cm, and 20 cm respectively, then the length of BQ, in cm, is?",
+        "answer": "24 cm"
+      },
+   {
+        "question": "Let t1, t2,... be real numbers such that t1+t2+...+ tn = 2n²+ 9n+ 13, for every positive integer n ≥ 2. If tk=103, then k equals?",
+        "answer": "24"
+      },
+   {
+        "question": "If N and x are positive integers such that NN = 2160 and N² + 2N is an integral multiple of 2^x, then the largest possible x is?",
+        "answer": "10"
+      },
+   {
+        "question": "In a tournament, there are 43 junior level and 51 senior level participants. Each pair of juniors play one match. Each pair of seniors play one match. There is no junior versus senior match. The number of girl versus girl matches in junior level is 153, while the number of boy versus boy matches in senior level is 276. The number of matches a boy plays against a girl is?",
+        "answer": "1098"
+      },
+   {
+        "question": "The smallest integer n such that n³ - 11n² + 32n - 28 > 0 is?",
+        "answer": "8"
+      },
+   {
+        "question": "On a long stretch of east-west road, A and B are two points such that B is 350 km west of A. One car starts from A and another from B at the same time. If they move towards each other, then they meet after 1 hour. If they both move towards the east, then they meet in 7 hrs. The difference between their speeds, in km per hour, is?",
+        "answer": "50"
+      },
+   {
+        "question": "Points A and B are 150 km apart. Cars 1 and 2 travel from A to B, but car 2 starts from A when car 1 is already 20 km away from A. Each car travels at a speed of 100 kmph for the first 50 km, at 50 kmph for the next 50 km, and at 25 kmph for the last 50 km. The distance, in km, between car 2 and B when car 1 reaches B is?",
+        "answer": "5 km"
+      },
+   {
+        "question": "A water tank has inlets of two types A and B. All inlets of type A when open, bring in water at the same rate. All inlets of type B, when open, bring in water at the same rate. The empty tank is completely filled in 30 minutes if 10 inlets of type A and 45 inlets of type B are open, and in 1 hour if 8 inlets of type A and 18 inlets of type B are open. In how many minutes will the empty tank get completely filled if 7 inlets of type A and 27 inlets of type B are open?",
+        "answer": "48"
+      },
+   {
+        "question": "Gopal borrows Rs. X from Ankit at 8% annual interest. He then adds Rs. Y of his own money and lends Rs. X+Y to Ishan at 10% annual interest. At the end of the year, after returning Ankit's dues, the net interest retained by Gopal is the same as that accrued to Ankit. On the other hand, had Gopal lent Rs. X+2Y to Ishan at 10%, then the net interest retained by him would have increased by Rs. 150. If all interests are compounded annually, then find the value of X + Y.",
+        "answer": "4000"
+      },
+   {
+        "question": "The arithmetic mean of x, y and z is 80, and that of x, y, z, u and v is 75, where u = (x+y)/2 and v = (y+z)/2. If x > z, then the minimum possible value of x is?",
+        "answer": "105"
+      },
+   {
+        "question": "Let f(x)=max{5x, 52 - 2x²}, where x is any positive real number. Then the minimum possible value of f(x) is?",
+        "answer": "20"
+      },
+   {
+        "question": "If a and b are integers such that 2x² - ax + 2 > 0 and x² - bx +8 ≥ 0 for all real numbers x, then the largest possible value of 2a - 6b is?",
+        "answer": "36"
+      }
+  ]
+}
+  

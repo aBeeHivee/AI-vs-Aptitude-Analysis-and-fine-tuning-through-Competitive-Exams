@@ -1,0 +1,60 @@
+{
+    "questions": [
+      {
+        "question": "The total cost of 2 pencils, 5 erasers, and 7 sharpeners is Rs.30, while 3 pencils and 5 sharpeners cost Rs. 15 more than 6 erasers. By what amount (in Rs.) does the cost of 39 erasers and 1 sharpener exceed the cost of 6 pencils?",
+        "options": ["20", "30", "It does not exceed", "Cannot be determined"],
+        "answer": "It does not exceed"
+      },
+      {
+        "question": "If the roots of the equation (x + 1) (x + 9) + 8 = 0 are a and b, then the roots of the equation (x + a) (x + b) -8 = 0 are",
+        "options": ["1 and 9", "-4 and -6", "4 and 6", "Cannot be determined"],
+        "answer": "-4 and -6"
+      },
+      {
+        "question": "What is the remainder when 7^700 is divided by 100?",
+        "options": ["1", "61", "41", "21"],
+        "answer": "41"
+      },
+      {
+        "question": "A sequence of 4 digits, when considered as a number in base 10 is four times the number it represents in base 6. What is the sum of the digits of the sequence?",
+        "options": ["7", "6", "9", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "Some friends planned to contribute equally to jointly buy a CD player. However, two of them decided to withdraw at the last minute. As a result, each of the others had to shell out one rupee more than what they had planned for. If the price (in Rs.) of the CD player is an integer between 1000 and 1100, find the number of friends who actually contributed?",
+        "options": ["21", "23", "44", "46"],
+        "answer": "23"
+      },
+      {
+        "question": "If N = 888…up to 100 digits, what is the remainder when N is divided by 625?",
+        "options": ["128", "138", "338", "388"],
+        "answer": "388"
+      },
+      {
+        "question": "A regular polygon has an even number of sides. If the product of the length of its side and the distance between two opposite sides is ¼ of its area, find the number of sides it has.",
+        "options": ["6", "8", "20", "16"],
+        "answer": "8"
+      },
+      {
+        "question": "Two buses P and Q start simultaneously from A and B respectively towards C. By the time Q reaches C, P is exactly halfway to C. Immediately after Q reaches C, it starts travelling towards A and it crosses P at a point 165 km from A. The ratio of the speeds of P and Q is 3:5. Assume that the roads joining A to C, B to C and B to A are all straight roads. If B is twice as far from A as it is from C and P would take to cover the distance from A to B, how much time would Q take to cover the distance from C to A?",
+        "options": ["2 2/5", "3 hours", "3 3/5", "4 hours"],
+        "answer": "3 3/5"
+      },
+      {
+        "question": "A natural number n is such that 120 ≤ n ≤ 240. If HCF of n and 240 is 1, how many values of n are possible?",
+        "options": ["24", "32", "36", "40"],
+        "answer": "32"
+      },
+      {
+        "question": "If the sum to infinity of the series 2 +(2-d) 2/3+ (2 + d) 4/9 + (2 + 3d) 8/27 + …… is 5/2, what is the value of d?",
+        "options": ["7/12", "-7/12", "-5/12", "5/12"],
+        "answer": "-5/12"
+      },
+      {
+        "question": "The first n natural numbers, 1 to n, have to be arranged in a row from left to right. The n numbers are arranged such that there are an odd number of numbers between any two even numbers as well as between any two odd numbers. If the number of ways in which this can be done is 72, then find the value of n.",
+        "options": ["6", "7", "8", "More than 8"],
+        "answer": "8"
+      }
+    ]
+  }
+  

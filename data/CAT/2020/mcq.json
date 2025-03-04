@@ -1,0 +1,240 @@
+{    "questions":[
+    {
+      "question": "If f(5 + x) = f(5 - x) for every real x and f(x) = 0 has four distinct real roots, then the sum of the roots is:",
+      "options": ["0", "40", "10", "20"],
+      "answer": "0"
+    },
+    {
+      "question": "A train travelled at one-third of its usual speed, and hence reached the destination 30 minutes after the scheduled time. On its return journey, the train initially travelled at its usual speed for 5 minutes but then stopped for 4 minutes for an emergency. The percentage by which the train must now increase its usual speed so as to reach the destination at the scheduled time is nearest to:",
+      "options": ["58", "67", "50", "61"],
+      "answer": "67"
+    },
+    {
+      "question": "A straight road connects points A and B. Car 1 travels from A to B and Car 2 travels from B to A, both leaving at the same time. After meeting each other, they take 45 minutes and 20 minutes, respectively, to complete their journeys. If Car 1 travels at the speed of 60 km/hr, then the speed of Car 2, in km/hr, is:",
+      "options": ["90", "80", "70", "100"],
+      "answer": "90"
+    },
+    {
+      "question": "Let A, B and C be three positive integers such that the sum of A and the mean of B and C is 5. In addition, the sum of B and the mean of A and C is 7. Then the sum of A and B is:",
+      "options": ["6", "4", "7", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "If x = (4096)^7+43, then which of the following equals 64?",
+      "options": ["(X^72)/X^(4/3)", "(X)/X^(4V3)", "(X^(7/2))/X^(2/3)", "(X)/X^(2/3)"],
+      "answer": "(X^(7/2))/X^(2/3)"
+    },
+    {
+      "question": "The mean of all 4-digit even natural numbers of the form 'aabb', where a > 0, is:",
+      "options": ["5544", "4466", "4864", "5050"],
+      "answer": "5544"
+    },
+    {
+      "question": "Among 100 students, x1 have birthdays in January, x2 have birthdays in February, and so on. If x0 = max(x1, x2, ..., x12), then the smallest possible value of x0 is:",
+      "options": ["8", "10", "12", "9"],
+      "answer": "9"
+    },
+    {
+      "question": "How many distinct positive integer-valued solutions exist to the equation (x^2 - 7x + 11)(x^2 - 13x +42) = 1?",
+      "options": ["6", "2", "4", "8"],
+      "answer": "6"
+    },
+    {
+      "question": "A solid right circular cone of height 27 cm is cut into 2 pieces along a plane parallel to its base at a height of 18 cm from the base. If the difference in the volume of the two pieces is 225 cc, the volume, in cc, of the original cone is:",
+      "options": ["264", "232", "243", "256"],
+      "answer": "243"
+    },
+    {
+      "question": "A circle is inscribed in a rhombus with diagonals 12 cm and 16 cm. The ratio of the area of the circle to the area of the rhombus is:",
+      "options": ["2/15", "6π/25", "3/25", "5/18"],
+      "answer": "6π/25"
+    },
+    {
+      "question": "Leaving home at the same time, Amal reaches office at 10:15 am if he travels at 8kmph, and at 9:40 am if he travels at 15kmph. Leaving home at 9:10 am, at what speed, in kmph, must he travel so as to reach office exactly at 10:00 am?",
+      "options": ["12", "11", "13", "14"],
+      "answer": "12"
+    },
+    {
+      "question": "If a, b and c are positive integers such that ab = 432, bc = 96 and c < 9, then the smallest possible value of a + b + c is:",
+      "options": ["56", "49", "46", "59"],
+      "answer": "46"
+    },
+    {
+      "question": "If y is a negative number such that 2y^2 log3(5) = 5 log2(3), then y equals:",
+      "options": ["log2 (1/3)", "log2 (1/5)", "-log2 (1/3)", "-log2 (1/5)"],
+      "answer": "log2 (1/3)"
+    },
+    {
+      "question": "An alloy is prepared by mixing metals A, B, C in the proportion 3:4:7 by volume. Weights of the same volume of metals A, B, C are in the ratio 5:2:6. In 130 kg of the alloy, the weight, in kg, of the metal C is:",
+      "options": ["84", "48", "96", "70"],
+      "answer": "84"
+    },
+    {
+      "question": "The number of real-valued solutions of the equation 2^x + 2^(-x) = 2 - (x - 2)^2 is:",
+      "options": ["infinite", "0", "1", "2"],
+      "answer": "0"
+    },
+    {
+      "question": "In a group of people, 28% of the members are young while the rest are old. If 65% of the members are literates, and 25% of the literates are young, then the percentage of old people among the illiterates is nearest to:",
+      "options": ["59", "62", "66", "55"],
+      "answer": "66"
+    },
+    {
+        "question": "If x1 = -1 and xm = xm + 1 + (m + 1) for every positive integer m, then x100 equals:",
+        "options": ["-5050", "-5051", "-5150", "-5151"],
+        "answer": "-5050"
+      },
+      {
+        "question": "Let loga30 = A, loga(5/3) = B, and log2a = (1/3), then log3a equals:",
+        "options": ["2/(A+B-3)", "(A+B-3)/2", "[(A+B)/2] - 3", "[2/(A+B)] - 3"],
+        "answer": "2/(A+B-3)"
+      },
+      {
+        "question": "The area, in sq. units, enclosed by the lines x = 2, y = |x - 2| + 4, the X-axis, and the Y-axis is equal to:",
+        "options": ["12", "8", "6", "10"],
+        "answer": "10"
+      },
+      {
+        "question": "How many of the integers 1, 2, ... , 120, are divisible by none of 2, 5 and 7?",
+        "options": ["41", "42", "40", "43"],
+        "answer": "41"
+      },
+      {
+        "question": "In the final examination, Bishnu scored 52% and Asha scored 64%. The marks obtained by Bishnu is 23 less, and that by Asha is 34 more than the marks obtained by Ramesh. The marks obtained by Geeta, who scored 84%, is:",
+        "options": ["399", "439", "357", "417"],
+        "answer": "399"
+      },
+      {
+        "question": "If f(x+y) = f(x)f(y) and f(5) = 4, then f(10) - f(-10) is equal to:",
+        "options": ["3", "0", "14.0625", "15.9375"],
+        "answer": "15.9375"
+      },
+      {
+        "question": "Let m and n be natural numbers such that n is even and 0.2 < m/20, n/m, n/11 < 0.5, then m - 2n equals:",
+        "options": ["4", "2", "1", "3"],
+        "answer": "1"
+      },
+      {
+        "question": "Anil, Sunil, and Ravi run along a circular path of length 3 km, starting from the same point at the same time, and going in the clockwise direction. If they run at speeds of 15 km/hr, 10 km/hr, and 8 km/hr, respectively, how much distance in km will Ravi have run when Anil and Sunil meet again for the first time at the starting point?",
+        "options": ["4.6", "4.2", "4.8", "5.2"],
+        "answer": "4.8"
+      },
+      {
+        "question": "A man buys 35 kg of sugar and sets a marked price in order to make a 20% profit. He sells 5 kg at this price, and 15 kg at a 10% discount. Accidentally, 3 kg of sugar is wasted. He sells the remaining sugar by raising the marked price by p percent so as to make an overall profit of 15%. Then p is nearest to:",
+        "options": ["35", "31", "22", "25"],
+        "answer": "25"
+      },
+      {
+        "question": "Let k be a constant. The equations kx + y = 3 and 4x + ky = 4 have a unique solution if and only if:",
+        "options": ["k = 2", "k²", "k ≠ 2", "k = 2"],
+        "answer": "k ≠ 2"
+      },
+      {
+        "question": "A batsman played n + 2 innings and got out on all occasions. His average score in these n + 2 innings was 29 runs and he scored 38 and 15 runs in the last two innings. The batsman scored less than 38 runs in each of the first n innings. In these n innings, his average score was 30 runs and the lowest score was x runs. The smallest possible value of x is:",
+        "options": ["1", "3", "2", "4"],
+        "answer": "2"
+      },
+      {
+        "question": "Two alcohol solutions, A and B, are mixed in the proportion 1:3 by volume. The volume of the mixture is then doubled by adding solution A such that the resulting mixture has 72% alcohol. If solution A has 60% alcohol, then the percentage of alcohol in solution B is:",
+        "options": ["94%", "92%", "90%", "89%"],
+        "answer": "92%"
+      },
+      {
+        "question": "The vertices of a triangle are (0,0), (4,0) and (3,9). The area of the circle passing through these three points is:",
+        "options": ["14π/3", "123/7", "205/9", "12/5"],
+        "answer": "123/7"
+      },
+      {
+        "question": "A and B are two railway stations 90 km apart. A train leaves A at 9:00 am, heading towards B at a speed of 40 km/hr. Another train leaves B at 10:30 am, heading towards A at a speed of 20 km/hr. The trains meet each other at:",
+        "options": ["11:20 am", "11:00 am", "10:45 am", "11:45 am"],
+        "answer": "11:00 am"
+      },
+      {
+        "question": "Vimla starts for office every day at 9 am and reaches exactly on time if she drives at her usual speed of 40 km/hr. She is late by 6 minutes if she drives at 35 km/hr. One day, she covers two-thirds of her distance to office in one-thirds of her usual time to reach office, and then stops for 8 minutes. The speed, in km/hr, at which she should drive the remaining distance to reach office exactly on time is:",
+        "options": ["27", "28", "29", "26"],
+        "answer": "28"
+      },
+      {
+        "question": "Let m and n be positive integers. If x² + mx + 2n = 0 and x² + 2nx + m = 0 have real roots, then the smallest possible value of m + n is:",
+        "options": ["8", "6", "5", "7"],
+        "answer": "6"
+      },
+      {
+        "question": "The points (2, 1) and (-3, -4) are opposite vertices of a parallelogram. If the other two vertices lie on the line x + 9y + c = 0, then c is:",
+        "options": ["15", "13", "14", "12"],
+        "answer": "14"
+      },
+      {
+        "question": "How many pairs (a,b) of positive integers are there such that a ≤ b and ab = 42017?",
+        "options": ["2019", "2018", "2020", "2017"],
+        "answer": "2018"
+      },
+      
+        {
+          "question": "In a car race, car A beats car B by 45 km, car B beats car C by 50 km, and car A beats car C by 90 km. The distance (in km) over which the race has been conducted is:",
+          "options": ["550", "475", "500", "450"],
+          "answer": "450"
+        },
+        {
+          "question": "In a group of 10 students, the mean of the lowest 9 scores is 42 while the mean of the highest 9 scores is 47. For the entire group of 10 students, the maximum possible mean exceeds the minimum possible mean by:",
+          "options": ["5", "3", "4", "6"],
+          "answer": "3"
+        },
+        {
+          "question": "Let the mth and nth terms of a Geometric progression be 3/4^34 and 12, respectively, when m < n. If the common ratio of the progression is an integer r, then the smallest possible value of r+n-m is:",
+          "options": ["-4", "-2", "6", "2"],
+          "answer": "-4"
+        },
+        {
+          "question": "Let C be a circle of radius 5 meters having center at O. Let PQ be a chord of C that passes through points A and B where A is located 4 meters north of O and B is located 3 meters east of O. Then, the length of PQ, in meters, is nearest to:",
+          "options": ["6.6", "7.2", "8.8", "7.8"],
+          "answer": "8.8"
+        },
+        {
+          "question": "The number of students choosing all three subjects is 18, choosing mathematics as one of their subjects is 23, and choosing physics as one of their subjects is 25. The smallest possible number of students who could choose chemistry as one of their subjects is:",
+          "options": ["22", "19", "20", "21"],
+          "answer": "20"
+        },
+        {
+          "question": "Let f(x) = x² + ax + b and g(x) = f(x + 1) - f(x - 1). If f(x) ≥ 0 for all real x, and g(20) = 72, then the smallest possible value of b is:",
+          "options": ["16", "1", "4", "8"],
+          "answer": "4"
+        },
+        {
+          "question": "The distance from B to C is thrice that from A to B. Two trains travel from A to C via B. The speed of train 2 is double that of train 1 while traveling from A to B and their speeds are interchanged while traveling from B to C. The ratio of the time taken by train 1 to that taken by train 2 in traveling from A to C is:",
+          "options": ["7:5", "4:1", "1:4", "5:7"],
+          "answer": "5:7"
+        },
+        {
+          "question": "The sum of perimeters of an equilateral triangle and a rectangle is 90 cm. The area, T, of the triangle and the area, R, of the rectangle, both in sq cm, satisfy the relationship R = T². If the sides of the rectangle are in the ratio 1:3, then the length, in cm, of the longer side of the rectangle, is:",
+          "options": ["27", "18", "21", "24"],
+          "answer": "27"
+        },
+        {
+          "question": "The number of integers that satisfy the equality (x² - 5x + 7)^(x+1) = 1 is:",
+          "options": ["5", "4", "3", "2"],
+          "answer": "3"
+        },
+        {
+          "question": "In how many ways can a pair of integers (x, a) be chosen such that x² - 2 |x|+ |a-2| = 0?",
+          "options": ["7", "6", "4", "5"],
+          "answer": "7"
+        },
+        {
+          "question": "Two circular tracks T1 and T2 of radii 100 m and 20 m, respectively, touch at a point A. Starting from A at the same time, Ram and Rahim are walking on track T1 and track T2 at speeds 15 km/hr and 5 km/hr respectively. The number of full rounds that Ram will make before he meets Rahim again for the first time is:",
+          "options": ["5", "3", "4", "2"],
+          "answer": "3"
+        },
+        {
+          "question": "Aron bought some pencils and sharpeners. Spending the same amount of money as Aron, Aditya bought twice as many pencils and 10 fewer sharpeners. If the cost of one sharpener is 2 more than the cost of a pencil, then the minimum possible number of pencils bought by Aron and Aditya together is:",
+          "options": ["33", "27", "30", "36"],
+          "answer": "33"
+        }
+      
+      
+    
+    
+    ]
+      
+    }
+  

@@ -1,2 +1,34 @@
+<<<<<<< HEAD
 
+=======
+{
+    "questions": [
+      {
+        "question": "If the sum of the squares of two numbers is 97 and the square of their difference is 25, what is the product of the two numbers?",
+        "options": ["36", "45", "48", "50"],
+        "answer": "48"
+      },
+      {
+        "question": "A train travels at a speed of 60 km/h and covers a certain distance in 7 hours. If it needs to cover the same distance in 5 hours, what should be its new speed?",
+        "options": ["72 km/h", "84 km/h","100km/h" , "90 km/h"],
+        "answer": "100 km/h"
+      },
+      {
+        "question": "In a group of 100 people, 80 people like tea, 70 people like coffee, and each person likes at least one of the two beverages. How many people like both tea and coffee?",
+        "options": ["50", "60", "70", "80"],
+        "answer": "50"
+      },
+      {
+        "question": "A committee of 5 members is to be formed from a group of 6 men and 4 women. What is the probability that the committee will have more men than women?",
+        "options": ["1/2", "2/3", "3/5", "4/5"],
+        "answer": "3/5"
+      },
+      {
+        "question": "In September, the incomes of Kamal, Amal, and Vimal are in the ratio 8:6:5. They rent a house together, and Kamal pays 15%, Amal pays 12%, and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12%, and 15%, respectively. In October, the percentage of their total income that will be paid as house rent is nearest to:",
+        "options": ["14.84%", "12.75%","13.26%","15.18%"],
+        "answer": "13.26%"
+      }
+    ]
+  }
+>>>>>>> 0591d72 (cat papers)
   

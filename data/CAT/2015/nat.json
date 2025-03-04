@@ -1,0 +1,41 @@
+{
+    "questions": [
+      {
+        "question": "When you reverse the digits of the number 13, the number increases by 18. How many other two-digit numbers increase by 18 when their digits are reversed?",
+        "answer": "5"
+      },
+      {
+        "question": "Amol was asked to calculate the arithmetic mean of 10 positive integers, each of which had 2 digits. By mistake, he interchanged the 2 digits, say a and b, in one of these 10 integers. As a result, the mean changed. Find the correct mean.",
+        "answer": "45"
+      },
+      {
+        "question": "The number of solutions of equation 2x + y = 40 where both x and y are positive integers is:",
+        "answer": "19"
+      },
+      {
+        "question": "Let un+1 = 2un + 1 (n=0,1,2,..) and un = 0. Then u10 is nearest to:",
+        "answer": "1023"
+      },
+      {
+        "question": "One man can do as much work in one day as a woman can do in 2 days. A child does one third the work in a day as a woman. If an estate-owner hires 39 pairs of hands, men, women, and children in the ratio 6 : 5 : 2 and pays them in all Rs. 1113 at the end of the day’s work, what must the daily wages of a child be, if the wages are proportional to the amount of work done?",
+        "answer": "7"
+      },
+      {
+        "question": "A water tank has three taps A, B, and C. A fills four buckets in 24 mins, B fills 8 buckets in 1 hour and C fills 2 buckets in 20 minutes. If all the taps are opened together a full tank is emptied in 2 hours. If a bucket can hold 5 litres of water, what is the capacity of the tank in litres?",
+        "answer": "1200"
+      },
+      {
+        "question": "For all non-negative integers x and y, f(x, y) is defined as below.\nf(0, y) = y + 1\nf(x + 1, 0) = f(x, 1)\nf(x + 1, y + 1) = f(x, f(x + 1, y)).\nThen what is the value of f(1, 2)?",
+        "answer": "5"
+      },
+      {
+        "question": "The cost of a diamond varies directly as the square of its weight. Once, this diamond broke into four pieces with weights in the ratio 1:2:3:4. When the pieces were sold, the merchant got Rs. 70,000 less. Find the original price of the diamond.",
+        "answer": "1,40,000"
+      },
+      {
+        "question": "2/5 of the voters promised to vote for P and the rest promised to vote for Q. Of these, on the last day, 15% of the voters went back on their promise to vote for P and 25% of voters went back on their promise to vote for Q, and P lost by 2 votes. Then the total number of voters is:",
+        "answer": "100"
+      }
+    ]
+  }
+  

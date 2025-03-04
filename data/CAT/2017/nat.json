@@ -1,0 +1,84 @@
+{ "questions": [
+    {
+      "question": "Arun's present age in years is 40% of Barun's. In another few years, Arun's age will be half of Barun's. By what percentage will Barun's age increase during this period?",
+      "answer": "20"
+    },
+    {
+      "question": "A person can complete a job in 120 days. He works alone on Day 1. On Day 2, he is joined by another person who also can complete the job in exactly 120 days. On Day 3, they are joined by another person of equal efficiency. Like this, everyday a new person with the same efficiency joins the work. How many days are required to complete the job?",
+      "answer": "15"
+    },
+    {
+      "question": "An elevator has a weight limit of 630 kg. It is carrying a group of people of whom the heaviest weighs 57 kg and the lightest weighs 53 kg. What is the maximum possible number of people in the group?",
+      "answer": "11"
+    },
+    {
+      "question": "A man leaves his home and walks at a speed of 12 km per hour, reaching the railway station 10 minutes after the train had departed. If instead he had walked at a speed of 15 km per hour, he would have reached the station 10 minutes before the train's departure. The distance (in km) from his home to the railway station is:",
+      "answer": "20"
+    },
+    {
+      "question": "Ravi invests 50% of his monthly savings in fixed deposits. Thirty percent of the rest of his savings is invested in stocks and the rest goes into Ravi's savings bank account. If the total amount deposited by him in the bank (for savings account and fixed deposits) is Rs 59500, then Ravi's total monthly savings (in Rs) is:",
+      "answer": "70000"
+    },
+    {
+      "question": "A ball of diameter 4 cm is kept on top of a hollow cylinder standing vertically. The height of the cylinder is 3 cm, while its volume is 9π cm³. Then the vertical distance, in cm, of the topmost point of the ball from the base of the cylinder is:",
+      "answer": "6"
+    },
+    {
+      "question": "Let ABC be a right-angled triangle with BC as the hypotenuse. Lengths of AB and AC are 15 km and 20 km, respectively. The minimum possible time, in minutes, required to reach the hypotenuse from A at a speed of 30 km per hour is:",
+      "answer": "24"
+    },
+    {
+      "question": "For how many integers n, will the inequality (n – 5) (n – 10) – 3(n – 2) ≤ 0 be satisfied?",
+      "answer": "11"
+    },
+    {
+      "question": "If a, b, c, and d are integers such that a + b + c + d = 30, then the minimum possible value of (a - b)² + (a - c)² + (a - d)² is",
+      "answer": "2"
+    },
+    {
+      "question": "Let AB, CD, EF, GH, and JK be five diameters of a circle with center at O. In how many ways can three points be chosen out of A, B, C, D, E, F, G, H, J, K, and O so as to form a triangle?",
+      "answer": "160"
+    },
+    {
+        "question": "The numbers 1, 2,..., 9 are arranged in a 3 × 3 square grid in such a way that each number occurs once and the entries along each column, each row, and each of the two diagonals add up to the same value. If the top left and the top right entries of the grid are 6 and 2, respectively, then the bottom middle entry is:",
+        "answer": "3"
+      },
+      {
+        "question": "In a 10 km race, A, B, and C, each running at uniform speed, get the gold, silver, and bronze medals, respectively. If A beats B by 1 km and B beats C by 1 km, then by how many metres does A beat C?",
+        "answer": "1900"
+      },
+      {
+        "question": "ABCD is a quadrilateral inscribed in a circle with centre O. If ∠COD = 120 degrees and ∠BAC = 30 degrees, then the value of ∠BCD (in degrees) is:",
+        "answer": "90"
+      },
+      {
+        "question": "If three sides of a rectangular park have a total length 400 ft., then the area of the park is maximum when the length (in ft.) of its longer side is:",
+        "answer": "200"
+      },
+      {
+        "question": "Let P be an interior point of a right-angled isosceles triangle ABC with hypotenuse AB. If the perpendicular distance of P from each of AB, BC, and CA is 4(√2 - 1) cm, then the area, in sq. cm, of the triangle ABC is:",
+        "answer": "16"
+      },
+      {
+        "question": "Let a1, a2, a3, a4, a5 be a sequence of five consecutive odd numbers. Consider a new sequence of five consecutive even numbers ending with 2a3. If the sum of the numbers in the new sequence is 450, then a5 is:",
+        "answer": "51"
+      },
+      {
+        "question": "How many different pairs (a, b) of positive integers are there such that a ≤ b and 1/a + 1/b = 1/9?",
+        "answer": "3"
+      },
+      {
+        "question": "In how many ways can 8 identical pens be distributed among Amal, Bimal, and Kamal so that Amal gets at least 1 pen, Bimal gets at least 2 pens, and Kamal gets at least 3 pens?",
+        "answer": "6"
+      },
+      {
+        "question": "How many four-digit numbers, which are divisible by 6, can be formed using the digits 0, 2, 3, 4, 6, such that no digit is used more than once and 0 does not occur in the left-most position?",
+        "answer": "50"
+      },
+      {
+        "question": "If f(ab) = f(a)f(b) for all positive integers a and b, then the largest possible value of f(1) is:",
+        "answer": "1"
+      }
+  ]
+}
+  

@@ -1,0 +1,25 @@
+{
+    "questions": [
+      {
+        "question": "Consider a system with 4 processes, each requiring up to 3 units of a particular resource. What is the minimum number of resource units required so that the system can never enter a deadlock state?",
+        "answer": "10"
+      },
+      {
+        "question": "Consider the grammar with productions S → aSb | ε. Let L be the set of strings in this language. Among the strings in L of length 6, how many distinct strings exist?",
+        "answer": "1"
+      },
+      {
+        "question": "What is the sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + …?",
+        "answer": "2"
+      },
+      {
+        "question": "If x² - 4x + 4 = 0, then the sum of the roots of this equation is ______.",
+        "answer": "4"
+      },
+      {
+        "question": "Evaluate the definite integral ∫[0 to 1] (3x² + 2x + 1) dx.",
+        "answer": "3"
+      }
+    ]
+  }
+  

@@ -1,0 +1,129 @@
+{
+    "questions": [
+      {
+        "question": "After Rajendra Chola returned from his voyage to Indonesia, he ______ to visit the temple in Thanjavur.",
+        "options": [
+          "(A) wanted",
+          "(B) decided",
+          "(C) planned",
+          "(D) wished"
+        ],
+        "answer": "(B) decided"
+      },
+      {
+        "question": "Research in the workplace reveals that people work for many reasons _______",
+        "options": [
+          "(A) money",
+          "(B) prestige",
+          "(C) because money",
+          "(D) besides money"
+        ],
+        "answer": "(D) besides money"
+      },
+      {
+        "question": "Rahul, Murali, Srinivas and Arul are seated around a square table. Rahul is sitting to the left of Murali. Srinivas is sitting to the right of Arul. Which of the following pairs are seated adjacent to each other?",
+        "options": [
+          "(A) Rahul and Arul",
+          "(B) Srinivas and Arul",
+          "(C) Srinivas and Murali",
+          "(D) Srinivas and Rahul"
+        ],
+        "answer": "(A) Rahul and Arul"
+      },
+      {
+        "question": "Find the smallest number y such that y^162 is a perfect cube.",
+        "options": [
+          "(A) 24",
+          "(B) 36",
+          "(C) 27",
+          "(D) 32"
+        ],
+        "answer": "(B) 36"
+      },
+      {
+        "question": "The probability that a 6-digit number does NOT contain the digits 0, 5, or 9 is",
+        "options": [
+          "(A) (3/4)^6",
+          "(B) 0.7^6",
+          "(C) 0.8^6",
+          "(D) 0.6^6"
+        ],
+        "answer": "(B) 0.7^6"
+      },
+      {
+        "question": "Six people are seated around a circular table. There are at least five men and two women. There are at least three right-handed persons. We know a left-handed person is seated immediately to the right. None of the women are right-handed. The number of men at the table is",
+        "options": [
+          "(A) 2",
+          "(B) 3",
+          "(C) 4",
+          "(D) Cannot be determined"
+        ],
+        "answer": "(A) 2"
+      },
+      {
+        "question": "The expression (x+y) − |x−y| is equal to",
+        "options": [
+          "(A) The maximum of x and y",
+          "(B) The minimum of x and y",
+          "(C) Both x and y",
+          "(D) None of the above"
+        ],
+        "answer": "(B) The minimum of x and y"
+      },
+      {
+        "question": "Arun, Gulab, Neel, and Shweta must each choose one shirt from a pile of four shirts colored pink, blue, white, and red, respectively. Arun dislikes the color red, and Shweta dislikes the color pink, but they have no other preferences. In how many different ways can they choose the shirts so that no one gets a shirt in a color they dislike?",
+        "options": [
+          "(A) 21",
+          "(B) 18",
+          "(C) 16",
+          "(D) 14"
+        ],
+        "answer": "(D) 14"
+      },
+      {
+        "question": "Choose the option with words that are not synonyms",
+        "options": [
+          "(A) aversion, dislike",
+          "(B) luminous, radiant",
+          "(C) plunder, loot",
+          "(D) bright, radiant"
+        ]
+      },
+      {
+        "question": "Saturn is ________ to be seen on a clear night with the naked eye.",
+        "options": [
+          "(A) enough bright",
+          "(B) bright enough",
+          "(C) as enough bright",
+          "(D) bright as enough"
+        ]
+      },
+      {
+        "question": "There are five buildings called V, W, X, Y, and Z in a row (not necessarily in that order). V is to the West of X, Z is to the East of X and the West of W, W is to the West of Y. Which is the building in the middle?",
+        "options": [
+          "(A) V",
+          "(B) X",
+          "(C) Z",
+          "(D) Y"
+        ]
+      },
+      {
+        "question": "A test has twenty questions worth 100 marks in total. There are twelve questions worth 10 marks each and eight questions worth 3 marks each. How many multiple choice questions does the exam have?",
+        "options": [
+          "(A) 12",
+          "(B) 16",
+          "(C) 18",
+          "(D) 19"
+        ]
+      },
+      {
+        "question": "There are 3 red socks, 4 green socks, and 3 blue socks. You choose 2 socks. The probability that they are of the same colour is",
+        "options": [
+          "(A) 3/7",
+          "(B) 7/30",
+          "(C) 1/4",
+          "(D) 4/15"
+        ]
+      }
+    ]
+  }

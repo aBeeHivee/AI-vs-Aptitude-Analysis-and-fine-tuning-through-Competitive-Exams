@@ -1,0 +1,51 @@
+{
+    "questions": [
+      
+      {
+        "question": "The _________ is too high for it to be considered _________.",
+        "options": ["(A) fair / fare", "(B) faer / fair", "(C) fare / fare", "(D) fare / fair"],
+        "answer": "(D) fare / fair"
+      },
+      {
+        "question": "A function y(x) is defined in the interval [0, 1] on the x-axis as follows:  y(x) = 2 if 0 ≤ x < 1/3,y(x) = 3 if 1/3 ≤ x < 3/4,  y(x) = 1 if 3/4 ≤ x ≤ 1.\n\nWhat is the area under the curve for the interval [0, 1]?",
+        "options": ["(A) 5/6", "(B) 6/5", "(C) 13/6", "(D) 6/13"],
+        "answer": "(C) 13/6"
+      },
+      {
+        "question": "Let r be a root of the equation x² + 2x + 6 = 0. Then the value of the expression (r + 2)(r + 3)(r + 4)(r + 5) is:",
+        "options": ["(A) 51", "(B) -51", "(C) 126", "(D) -126"],
+        "answer": "(D) -126"
+      },
+      {
+        "question": "Given below are four statements:\n\nStatement 1: All students are inquisitive.\nStatement 2: Some students are inquisitive.\nStatement 3: No student is inquisitive.\nStatement 4: Some students are not inquisitive.\n\nWhich two statements cannot be true simultaneously (assuming there is at least one student)?",
+        "options": ["(A) Statement 1 and Statement 3", "(B) Statement 1 and Statement 2", "(C) Statement 2 and Statement 4", "(D) Statement 3 and Statement 4"],
+        "answer": "(A) Statement 1 and Statement 3"
+      },
+      {
+        "question": "A palindrome is a word that reads the same forwards and backwards. In a word game, a player has two plates painted with letters. From the additional plates given in the options, which combination would allow the player to construct a five-letter palindrome using all plates exactly once? (The plates can be rotated in their plane.)",
+        "options": ["(A) Option A", "(B) Option B", "(C) Option C", "(D) Option D"],
+        "answer": "(A) Option A"
+      },
+      {
+        "question": "Some people believe that 'what gets measured, improves' while others believe that 'what gets measured, gets gamed'. One possible reason for this difference is the work culture in organizations. Which of the following is the correct logical inference based on the passage?",
+        "options": ["(A) Metrics are useful in organizations with poor work culture", "(B) Metrics are useful in organizations with good work culture", "(C) Metrics are always counterproductive in organizations with good work culture", "(D) Metrics are never useful in organizations with good work culture"],
+        "answer": "(B) Metrics are useful in organizations with good work culture"
+      },
+      {
+        "question": "In a recently conducted national entrance test, boys constituted 65% of the candidates who appeared, while girls (the remaining candidates) accounted for 60% of the qualified candidates. Which one of the following is the correct logical inference?",
+        "options": ["(A) Equal number of boys and girls qualified", "(B) Equal number of boys and girls appeared", "(C) The number of boys who appeared is less than the number of girls", "(D) The number of boys who qualified is less than the number of girls"],
+        "answer": "(D) The number of boys who qualified is less than the number of girls"
+      },
+      {
+        "question": "A box contains five balls (three green and two orange). Balls are drawn one at a time. If a green ball is drawn, it is not replaced; if an orange ball is drawn, it is replaced with another orange ball. Given that the first ball is drawn, what is the probability that the next ball drawn is orange?",
+        "options": ["(A) 1/2", "(B) 8/25", "(C) 19/50", "(D) 23/50"],
+        "answer": "(D) 23/50"
+      },
+      {
+        "question": "The corners and mid-points of the sides of a triangle are labeled with distinct letters P, Q, R, S, T, and U (not necessarily in that order). Consider the following:\n• The line joining P and R is parallel to the line joining Q and S.\n• P is placed on the side opposite to the corner T.\n• S and U cannot be placed on the same side.\nWhich one of the following statements is correct based on the above information?",
+        "options": ["(A) P cannot be placed at a corner", "(B) S cannot be placed at a corner", "(C) U cannot be placed at a mid-point", "(D) R cannot be placed at a corner"],
+        "answer": "(A) P cannot be placed at a corner"
+      }
+    ]
+  }
+  

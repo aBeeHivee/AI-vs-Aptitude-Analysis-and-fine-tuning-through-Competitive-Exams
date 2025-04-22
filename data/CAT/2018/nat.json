@@ -90,6 +90,14 @@
    {
         "question": "If a and b are integers such that 2x² - ax + 2 > 0 and x² - bx +8 ≥ 0 for all real numbers x, then the largest possible value of 2a - 6b is?",
         "answer": "36"
+      },
+      {
+        "question": "You are given an n×n square matrix to be filled with numerals so that no two adjacent cells have the same numeral. Two cells are called adjacent if they touch each other horizontally, vertically or diagonally. So a cell in one of the four corners has three cells adjacent to it, and a cell in the first or last row or column which is not in the corner has five cells adjacent to it. Any other cell has eight cells adjacent to it. What is the minimum number of different numerals needed to fill a 3×3 square matrix? (TITA)",
+        "answer": "4"
+      },
+      {
+        "question": "You are given an n×n square matrix to be filled with numerals so that no two adjacent cells have the same numeral. Two cells are called adjacent if they touch each other horizontally, vertically or diagonally. So a cell in one of the four corners has three cells adjacent to it, and a cell in the first or last row or column which is not in the corner has five cells adjacent to it. Any other cell has eight cells adjacent to it. What is the minimum number of different numerals needed to fill a 5×5 square matrix? (TITA)",
+        "answer": "4"
       }
   ]
 }

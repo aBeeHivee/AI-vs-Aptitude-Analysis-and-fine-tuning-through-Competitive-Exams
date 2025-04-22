@@ -53,7 +53,12 @@
       },
       {
         "question": "Suppose the medians BD and CE of a traingle ABC interect at a point O.If area of traingle ABC is 108 sq.cm,then area of traingle EOD in sq.cm ,is ",
-        "answer": "81"
+        "answer": "18"
+      },
+      {
+        "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer. Some students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event. The following facts are also known: 1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event. 2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both. 3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers. 4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event. 5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event. Q1. How many boys are there in the class?",
+        "answer": "50"
+       
       }
     ]
   }

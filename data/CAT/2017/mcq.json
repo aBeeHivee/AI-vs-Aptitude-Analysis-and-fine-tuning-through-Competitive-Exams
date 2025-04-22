@@ -159,7 +159,56 @@
         "question": "In how many ways can 7 identical erasers be distributed among 4 kids in such a way that each kid gets at least one eraser but nobody gets more than 3 erasers?",
         "options": ["16", "20", "14", "15"],
         "answer": "16"
-      }
-    ]
-  }
+      },
+      
+          {
+            "question": "Applicants for the doctoral programmes of Ambi Institute of Engineering (AIE) and Bambi Institute of Engineering (BIE) have to appear for a Common Entrance Test (CET). The test has three sections: Physics (P), Chemistry (C), and Maths (M). Among those appearing for CET, those at or above the 80th percentile in at least two sections, and at or above the 90th percentile overall, are selected for Advanced Entrance Test (AET) conducted by AIE. AET is used by AIE for final selection.\n\nFor the 200 candidates who are at or above the 90th percentile overall based on CET, the following are known about their performance in CET:\n1. No one is below the 80th percentile in all 3 sections.\n2. 150 are at or above the 80th percentile in exactly two sections.\n3. The number of candidates at or above the 80th percentile only in P is the same as the number of candidates at or above the 80th percentile only in C. The same is the number of candidates at or above the 80th percentile only in M.\n4. Number of candidates below 80th percentile in P: Number of candidates below 80th percentile in C: Number of candidates below 80th percentile in M = 4:2:1.\n\nBIE uses a different process for selection. If any candidate is appearing in the AET by AIE, BIE considers their AET score for final selection provided the candidate is at or above the 80th percentile in P. Any other candidate at or above the 80th percentile in P in CET, but who is not eligible for the AET, is required to appear in a separate test to be conducted by BIE for being considered for final selection. Altogether, there are 400 candidates this year who are at or above the 80th percentile in P.\n\nWhat best can be concluded about the number of candidates sitting for the separate test for BIE who were at or above the 90th percentile overall in CET?",
+            "options": [
+              "3 or 10",
+              "10",
+              "5",
+              "7 or 10"
+            ],
+            "answer": "7 or 10"
+          },
+          
+          {
+            "question": "Applicants for the doctoral programmes of Ambi Institute of Engineering (AIE) and Bambi Institute of Engineering (BIE) have to appear for a Common Entrance Test (CET). The test has three sections: Physics (P), Chemistry (C), and Maths (M). Among those appearing for CET, those at or above the 80th percentile in at least two sections, and at or above the 90th percentile overall, are selected for Advanced Entrance Test (AET) conducted by AIE. AET is used by AIE for final selection.\n\nFor the 200 candidates who are at or above the 90th percentile overall based on CET, the following are known about their performance in CET:\n1. No one is below the 80th percentile in all 3 sections.\n2. 150 are at or above the 80th percentile in exactly two sections.\n3. The number of candidates at or above the 80th percentile only in P is the same as the number of candidates at or above the 80th percentile only in C. The same is the number of candidates at or above the 80th percentile only in M.\n4. Number of candidates below 80th percentile in P: Number of candidates below 80th percentile in C: Number of candidates below 80th percentile in M = 4:2:1.\n\nBIE uses a different process for selection. If any candidate is appearing in the AET by AIE, BIE considers their AET score for final selection provided the candidate is at or above the 80th percentile in P. Any other candidate at or above the 80th percentile in P in CET, but who is not eligible for the AET, is required to appear in a separate test to be conducted by BIE for being considered for final selection. Altogether, there are 400 candidates this year who are at or above the 80th percentile in P.\n\nIf the number of candidates who are at or above the 90th percentile overall and also are at or above the 80th percentile in P in CET, is more than 100, how many candidates had to sit for the separate test for BIE?",
+            "options": [
+              "299",
+              "310",
+              "321",
+              "330"
+            ],
+            "answer": "299"
+          },
+        
+              {
+                "question": "An old woman had the following assets: (a) Rs. 70 lakh in bank deposits (b) 1 house worth Rs. 50 lakh (c) 3 flats, each worth Rs. 30 lakh (d) Certain number of gold coins, each worth Rs. 1 lakh\n\nShe wanted to distribute her assets among her three children; Neeta, Seeta and Geeta. The house, any of the flats or any of the coins were not to be split. That is, the house went entirely to one child; a flat went to one child and similarly, a gold coin went to one child.\n\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins.How much did Seeta receive in bank deposits (in lakhs of rupees)?",
+                "options": [
+                  "30",
+                  "40",
+                  "20",
+                  "10"
+                ],
+                "answer": "20"
+              },
+              
+              {
+                "question": "An old woman had the following assets: (a) Rs. 70 lakh in bank deposits (b) 1 house worth Rs. 50 lakh (c) 3 flats, each worth Rs. 30 lakh (d) Certain number of gold coins, each worth Rs. 1 lakh\n\nShe wanted to distribute her assets among her three children; Neeta, Seeta and Geeta. The house, any of the flats or any of the coins were not to be split. That is, the house went entirely to one child; a flat went to one child and similarly, a gold coin went to one child.\n\nAmong the three, Neeta received the least amount in bank deposits, while Geeta received the highest. The value of the assets was distributed equally among the children, as were the gold coins.\n\nThe value of the assets distributed among Neeta, Seeta and Geeta was in the ratio of 1:2:3, while the gold coins were distributed among them in the ratio of 2:3:4. One child got all three flats and she did not get the house. One child, other than Geeta, got Rs. 30 lakh in bank deposits.\n\nHow many gold coins did the old woman have?",
+                "options": [
+                  "72",
+                  "90",
+                  "180",
+                  "216"
+                ],
+                "answer": "90"
+              }
+              
+            ]
+          }
+          
+        
+      
+    
   

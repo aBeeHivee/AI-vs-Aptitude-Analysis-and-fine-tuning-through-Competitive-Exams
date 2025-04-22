@@ -1,31 +1,181 @@
 {
-    "questions": [
+  "questions": [
+    {
+      "question": "If (a+bn−−√) is the positive square root of (29−125–√), where a and b are integers, and n is a natural number, then the maximum possible value of (a+b+n) is",
+      "options": ["22", "6", "18", "4"],
+      "answer": "18"
+    },
+ 
+    {
+      "question": "In the XY-plane, the area, in sq. units, of the region defined by the inequalities y ≥ x + 4 and −4 ≤ x^2 + y^2 + 4(x−y) ≤ 0 is",
+      "options": ["4π", "2π", "π", "3π"],
+      "answer": "2π"
+    },
+    {
+      "question": "When 10^100 is divided by 7, the remainder is",
+      "options": ["3", "6", "1", "4"],
+      "answer": "4"
+    },
+    {
+      "question": "An amount of Rs 10000 is deposited in bank A for a certain number of years at a simple interest of 5% per annum. On maturity, the total amount received is deposited in bank B for another 5 years at a simple interest of 6% per annum. If the interests received from bank A and bank B are in the ratio 10 : 13, then the investment period, in years, in bank A is",
+      "options": ["4", "3", "6", "5"],
+      "answer": "6"
+    },
+    {
+      "question": "A shop wants to sell a certain quantity (in kg) of grains. It sells half the quantity and an additional 3 kg of these grains to the first customer. Then, it sells half of the remaining quantity and an additional 3 kg of these grains to the second customer. Finally, when the shop sells half of the remaining quantity and an additional 3 kg of these grains to the third customer, there are no grains left. The initial quantity, in kg, of grains is",
+      "options": ["18", "36", "50", "42"],
+      "answer": "42"
+    },
+    {
+      "question": "Two places A and B are 45 km apart and connected by a straight road. Anil goes from A to B while Sunil goes from B to A. Starting at the same time, they cross each other in exactly 1 hour 30 minutes. If Anil reaches B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is",
+      "options": ["16", "14", "12", "18"],
+      "answer": "12"
+    },
+    {
+      "question": "The surface area of a closed rectangular box, which is inscribed in a sphere, is 846 sq cm, and the sum of the lengths of all its edges is 144 cm. The volume, in cubic cm, of the sphere is",
+      "options": ["750π", "1125π√2", "1125π", "750π√2"],
+      "answer": "1125√2π"
+    },
+    {
+      "question": "A glass is filled with milk. Two-thirds of its content is poured out and replaced with water. If this process of pouring out two-thirds the content and replacing with water is repeated three more times, then the final ratio of milk to water in the glass, is",
+      "options": ["1:27", "1:81", "1:26", "1:80"],
+      "answer": "1:80"
+    },
+    {
+      "question": "The selling price of a product is fixed to ensure 40% profit. If the product had cost 40% less and had been sold for 5 rupees less, then the resulting profit would have been 50%. The original selling price, in rupees, of the product is",
+      "options": ["10", "15", "20", "14"],
+      "answer": "14"
+    },
+    
       {
-        "question": "If the sum of the squares of two numbers is 97 and the square of their difference is 25, what is the product of the two numbers?",
-        "options": ["36", "45", "48", "50"],
-        "answer": "48"
+        "question": "For some constant real numbers p, k and a, consider the following system of linear equations in x and y:\npx − 4y = 2\n3x + ky = a\nA necessary condition for the system to have no solution for (x, y) is",
+        "options": ["2a + k ≠ 0", "ap − 6 = 0", "ap + 6 = 0", "kp + 12 ≠ 0"],
+        "answer": "2a + k ≠ 0"
       },
       {
-        "question": "A train travels at a speed of 60 km/h and covers a certain distance in 7 hours. If it needs to cover the same distance in 5 hours, what should be its new speed?",
-        "options": ["72 km/h", "84 km/h","100km/h" , "90 km/h"],
-        "answer": "100 km/h"
+        "question": "If (a + b√3)^2 = 52 + 30√3, where a and b are natural numbers, then a + b equals",
+        "options": ["7", "10", "8", "9"],
+        "answer": "8"
       },
       {
-        "question": "In a group of 100 people, 80 people like tea, 70 people like coffee, and each person likes at least one of the two beverages. How many people like both tea and coffee?",
-        "options": ["50", "60", "70", "80"],
-        "answer": "50"
+        "question": "A circular plot of land is divided into two regions by a chord of length 10√3 meters such that the chord subtends an angle of 120° at the center. Then, the area, in square meters, of the smaller region is",
+        "options": ["25(4π/3 + √3)", "20(4π/3 − √3)", "25(4π/3 − √3)", "20(4π/3 + √3)"],
+        "answer": "25(4π/3 − √3)"
       },
       {
-        "question": "A committee of 5 members is to be formed from a group of 6 men and 4 women. What is the probability that the committee will have more men than women?",
-        "options": ["1/2", "2/3", "3/5", "4/5"],
-        "answer": "3/5"
+        "question": "In a group of 250 students, the percentage of girls was at least 44% and at most 60%. The rest of the students were boys. Each student opted for either swimming or running or both. If 50% of the boys and 80% of the girls opted for swimming while 70% of the boys and 60% of the girls opted for running, then the minimum and maximum possible number of students who opted for both swimming and running are",
+        "options": ["72 and 80", "75 and 90", "72 and 88", "75 and 96"],
+        "answer": "72 and 80"
+      },
+    
+      {
+        "question": "After two successive increments, Gopal's salary became 187.5% of his initial salary. If the percentage of salary increase in the second increment was twice that of the first increment, then the percentage of salary increase in the first increment was",
+        "options": ["27.5", "30", "25", "20"],
+        "answer": "25"
       },
       {
-        "question": "In September, the incomes of Kamal, Amal, and Vimal are in the ratio 8:6:5. They rent a house together, and Kamal pays 15%, Amal pays 12%, and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12%, and 15%, respectively. In October, the percentage of their total income that will be paid as house rent is nearest to:",
-        "options": ["14.84%", "12.75%","13.26%","15.18%"],
-        "answer": "13.26%"
+        "question": "Sam can complete a job in 20 days when working alone. Mohit is twice as fast as Sam and thrice as fast as Ayna in the same job. They undertake a job with an arrangement where Sam and Mohit work together on the first day, Sam and Ayna on the second day, Mohit and Ayna on the third day, and this three-day pattern is repeated till the work gets completed. Then, the fraction of total work done by Sam is",
+        "options": ["3/20", "3/10", "1/20", "1/5"],
+        "answer": "3/10"
+      },
+      {
+        "question": "Gopi marks a price on a product in order to make 20% profit. Ravi gets 10% discount on this marked price, and thus saves Rs 15. Then, the profit, in rupees, made by Gopi by selling the product to Ravi, is",
+        "options": ["25", "10", "15", "20"],
+        "answer": "10"
+      },
+      {
+        "question": "A train travelled a certain distance at a uniform speed. Had the speed been 6 km per hour more, it would have needed 4 hours less. Had the speed been 6 km per hour less, it would have needed 6 hours more. The distance, in km, travelled by the train is",
+        "options": ["780", "720", "640", "800"],
+        "answer": "720"
+      },
+      
+        {
+          "question": "If x and y satisfy the equations |x|+x+y=15 and x+|y|−y=20, then (x−y) equals",
+          "options": ["10", "5", "20", "15"],
+          "answer": "15"
+        },
+        {
+          "question": "If m and n are natural numbers such that n>1, and mn=2^25×3^40, then m−n equals",
+          "options": ["209932", "209937", "209947", "209942"],
+          "answer": "209947"
+        },
+        {
+          "question": "A function f maps the set of natural numbers to whole numbers, such that f(xy)=f(x)f(y)+f(x)+f(y) for all x,y and f(p)=1 for every prime number p. Then, the value of f(160000) is",
+          "options": ["1023", "4095", "2047", "8191"],
+          "answer": "4095"
+        },
+        {
+          "question": "ABCD is a trapezium in which AB is parallel to CD. The sides AD and BC when extended, intersect at point E. If AB=2 cm, CD=1 cm, and perimeter of ABCD is 6 cm, then the perimeter, in cm, of △AEB is",
+          "options": ["10", "9", "8", "7"],
+          "answer": "8"
+        },
+        {
+          "question": "A company has 40 employees whose names are listed in a certain order. In the year 2022, the average bonus of the first 30 employees was Rs. 40000, of the last 30 employees was Rs. 60000, and of the first 10 and last 10 employees together was Rs. 50000. Next year, the average bonus of the first 10 employees increased by 100%, of the last 10 employees increased by 200% and of the remaining employees was unchanged. Then, the average bonus, in rupees, of all the 40 employees together in the year 2023 was",
+          "options": ["90000", "95000", "80000", "85000"],
+          "answer": "95000"
+        },
+        {
+          "question": "Anil invests Rs 22000 for 6 years in a scheme with 4% interest per annum, compounded half-yearly. Separately, Sunil invests a certain amount in the same scheme for 5 years, and then reinvests the entire amount he receives at the end of 5 years, for one year at 10% simple interest. If the amounts received by both at the end of 6 years are equal, then the initial investment, in rupees, made by Sunil is",
+          "options": ["20480", "20808", "20640", "20860"],
+          "answer": "20808"
+        },
+        {
+          "question": "A bus starts at 9 am and follows a fixed route every day. One day, it traveled at a constant speed of 60 km per hour and reached its destination 3.5 hours later than its scheduled arrival time. Next day, it traveled two-thirds of its route in one-third of its total scheduled travel time, and the remaining part of the route at 40 km per hour to reach just on time. The scheduled arrival time of the bus is",
+          "options": ["10:30 pm", "7:00 pm", "7:30 pm", "9:00 pm"],
+          "answer": "7:30 pm"
+        },
+        {
+          "question": "Three circles of equal radii touch (but not cross) each other externally. Two other circles, X and Y, are drawn such that both touch (but not cross) each of the three previous circles. If the radius of X is more than that of Y, the ratio of the radii of X and Y is",
+          "options": ["2+√3:1", "4+√3:1", "7+4√3:1", "4+2√3:1"],
+          "answer": "7+4√3:1"
+        },
+        {
+          "question": "A vessel contained a certain amount of a solution of acid and water. When 2 litres of water was added to it, the new solution had 50% acid concentration. When 15 litres of acid was further added to this new solution, the final solution had 80% acid concentration. The ratio of water and acid in the original solution was",
+          "options": ["5:3", "4:5", "5:4", "3:5"],
+          "answer": "3:5"
+        },
+        {
+          "question": "All the values of x satisfying the inequality 1/(x+5) ≤ 1/(2x−3) are",
+          "options": ["-∞, -5] ∪ (3/2, ∞)", "(-5, 3/2)", "[3/2, ∞)", "(-∞, -5]"],
+          "answer": "(-∞, -5] ∪ (3/2, ∞)"
+        },
+        {
+          "question": "When Rajesh's age was the same as the present age of Garima, the ratio of their ages was 3:2. When Garima's age becomes the same as the present age of Rajesh, the ratio of the ages of Rajesh and Garima will become",
+          "options": ["4:3", "2:1", "3:2", "5:4"],
+          "answer": "5:4"
+        },
+        {
+          "question": "The game of QUIET is played between two teams. Six teams, numbered 1, 2, 3, 4, 5, and 6, play in a QUIET tournament. These teams are divided equally into two groups. In the tournament, each team plays every other team in the same group only once, and each team in the other group exactly twice. The tournament has several rounds, each of which consists of a few games. Every team plays exactly one game in each round. The following additional facts are known about the schedule of games in the tournament. 1. Each team played against a team from the other group in Round 8. 2. In Round 4 and Round 7, the match-ups, that is the pair of teams playing against each other, were identical. In Round 5 and Round 8, the match-ups were identical. 3. Team 4 played Team 6 in both Round 1 and Round 2. 4. Team 1 played Team 5 ONLY once and that was in Round 2. 5. Team 3 played Team 4 in Round 3. Team 1 played Team 6 in Round 6. 6. In Round 8, Team 3 played Team 6, while Team 2 played Team 5. Which team among the teams numbered 2, 3, 4, and 5 was not part of the same group?",
+          "options": ["5", "2", "4", "3"],
+          "answer": "5"
+        },
+        
+          {
+            "question": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 × (2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all.\n\nIf both of them run staid campaigns attacking the other, then what percentage of students will vote in the election?",
+            "options": ["60%", "64%", "40%", "36%"],
+            "answer": "36%"
+          },
+          {
+            "question": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 × (2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all.\n\nWhat is the minimum percentage of students who will vote in the election?",
+            "options": ["38%", "36%", "32%", "40%"],
+            "answer": "36%"
+          },
+          {
+            "question": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 × (2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all.\n\nIf Amiya runs a campaign focusing on issues, then what is the maximum percentage of votes that she can get?",
+            "options": ["48%", "36%", "44%", "40%"],
+            "answer": "48%"
+          },
+          {
+            "question": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 × (2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all.\n\nIf Ramya runs a campaign attacking Amiya, then what is the minimum percentage of votes that she is guaranteed to get?",
+            "options": ["15%", "18%", "12%", "30%"],
+            "answer": "15%"
+          },
+          {
+            "question": "Two students, Amiya and Ramya are the only candidates in an election for the position of class representative. Students will vote based on the intensity level of Amiya's and Ramya's campaigns and the type of campaigns they run. Each campaign is said to have a level of 1 if it is a staid campaign and a level of 2 if it is a vigorous campaign. Campaigns can be of two types, they can either focus on issues, or on attacking the other candidate.\n\nIf Amiya and Ramya both run campaigns focusing on issues, then\n• The percentage of students voting in the election will be 20 times the sum of the levels of campaigning of the two students. For example, if Amiya and Ramya both run vigorous campaigns, then 20 × (2+2)%, that is, 80% of the students will vote in the election.\n• Among voting students, the percentage of votes for each candidate will be proportional to the levels of their campaigns. For example, if Amiya runs a staid (i.e., level 1) campaign while Ramya runs a vigorous (i.e., level 2) campaign, then Amiya will receive 1/3 of the votes cast, and Ramya will receive the other 2/3.\n\nThe above-mentioned percentages change as follows if at least one of them runs a campaign attacking their opponent.\n• If Amiya runs a campaign attacking Ramya and Ramya runs a campaign focusing on issues, then 10% of the students who would have otherwise voted for Amiya will vote for Ramya, and another 10% who would have otherwise voted for Amiya, will not vote at all.\n• If Ramya runs a campaign attacking Amiya and Amiya runs a campaign focusing on issues, then 20% of the students who would have otherwise voted for Ramya will vote for Amiya, and another 5% who would have otherwise voted for Ramya, will not vote at all.\n• If both run campaigns attacking each other, then 10% of the students who would have otherwise voted for them had they run campaigns focusing on issues, will not vote at all.\n\nWhat is the maximum possible voting margin with which one of the candidates can win?",
+            "options": ["20%", "28%", "26%", "29%"],
+            "answer": "29%"
+          }
+        ]
       }
-    ]
-  }
-
-  
+          
+            

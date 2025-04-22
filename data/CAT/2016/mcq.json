@@ -3,7 +3,7 @@
       {
         "question": "The total cost of 2 pencils, 5 erasers, and 7 sharpeners is Rs.30, while 3 pencils and 5 sharpeners cost Rs. 15 more than 6 erasers. By what amount (in Rs.) does the cost of 39 erasers and 1 sharpener exceed the cost of 6 pencils?",
         "options": ["20", "30", "It does not exceed", "Cannot be determined"],
-        "answer": "It does not exceed"
+        "answer": "30"
       },
       {
         "question": "If the roots of the equation (x + 1) (x + 9) + 8 = 0 are a and b, then the roots of the equation (x + a) (x + b) -8 = 0 are",
@@ -13,12 +13,12 @@
       {
         "question": "What is the remainder when 7^700 is divided by 100?",
         "options": ["1", "61", "41", "21"],
-        "answer": "41"
+        "answer": "1"
       },
       {
         "question": "A sequence of 4 digits, when considered as a number in base 10 is four times the number it represents in base 6. What is the sum of the digits of the sequence?",
         "options": ["7", "6", "9", "8"],
-        "answer": "7"
+        "answer": "8"
       },
       {
         "question": "Some friends planned to contribute equally to jointly buy a CD player. However, two of them decided to withdraw at the last minute. As a result, each of the others had to shell out one rupee more than what they had planned for. If the price (in Rs.) of the CD player is an integer between 1000 and 1100, find the number of friends who actually contributed?",
@@ -33,7 +33,7 @@
       {
         "question": "A regular polygon has an even number of sides. If the product of the length of its side and the distance between two opposite sides is ¼ of its area, find the number of sides it has.",
         "options": ["6", "8", "20", "16"],
-        "answer": "8"
+        "answer": "16"
       },
       {
         "question": "Two buses P and Q start simultaneously from A and B respectively towards C. By the time Q reaches C, P is exactly halfway to C. Immediately after Q reaches C, it starts travelling towards A and it crosses P at a point 165 km from A. The ratio of the speeds of P and Q is 3:5. Assume that the roads joining A to C, B to C and B to A are all straight roads. If B is twice as far from A as it is from C and P would take to cover the distance from A to B, how much time would Q take to cover the distance from C to A?",

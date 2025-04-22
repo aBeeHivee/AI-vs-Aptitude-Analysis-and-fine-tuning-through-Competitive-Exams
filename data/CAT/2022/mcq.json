@@ -50,46 +50,115 @@
         "options": ["24", "18", "20", "12"],
         "answer": "18"
       },
-      {
-        "question": "If a and b are non-negative real numbers such that a+2b = 6, then the average of the maximum and minimum possible values of (a+b) is:",
-        "options": ["3.5", "4.5", "3", "4"],
-        "answer": "4.5"
-      },
-      {
-        "question": "The length of each side of an equilateral triangle ABC is 3 cm. Let D be a point on BC such that the area of triangle ADC is half the area of triangle ABD. Then the length of AD, in cm, is:",
-        "options": ["√7", "√6", "√8", "√5"],
-        "answer": "√6"
-      },
-      {
-        "question": "The number of integers greater than 2000 that can be formed with the digits 0, 1, 2, 3, 4, 5, using each digit at most once, is:",
-        "options": ["1480", "1440", "1200", "1420"],
-        "answer": "1440"
-      },
-      {
-        "question": "Let f(x) be a quadratic polynomial in x such that f(x) ≥ 0 for all real numbers x. If f(2)=0 and f(4)=6, then f(–2) is equal to:",
-        "options": ["36", "12", "24", "6"],
-        "answer": "24"
-      },
-      {
-        "question": "Manu earns ₹4000 per month and wants to save an average of ₹550 per month in a year. In the first nine months, his monthly expense was ₹3500, and he foresees that, tenth month onward, his monthly expense will increase to ₹3700. In order to meet his yearly savings target, his monthly earnings, in rupees, from the tenth month onward should be:",
-        "options": ["4350", "4400", "4300", "4200"],
-        "answer": "4400"
-      },
-      {
-        "question": "In an election, there were four candidates and 80% of the registered voters cast their votes. One of the candidates received 30% of the casted votes while the other three candidates received the remaining casted votes in the proportion 1:2:3. If the winner of the election received 2512 votes more than the candidate with the second-highest votes, then the number of registered voters was:",
-        "options": ["62800", "50240", "40192", "60288"],
-        "answer": "50240"
-      },
-      {
-        "question": "On day one, there are 100 particles in a laboratory experiment. On day n, where n ≥ 2, one out of every n particles produces another particle. If the total number of particles in the laboratory experiment increases to 1000 on day m, then m equals:",
-        "options": ["19", "17", "16", "18"],
-        "answer": "18"
-      },
+    
       {
         "question": "A group of N people worked on a project. They finished 35% of the project by working 7 hours a day for 10 days. Thereafter, 10 people left the group and the remaining people finished the rest of the project in 14 days by working 10 hours a day. Then the value of N is:",
         "options": ["140", "36", "150","28"],
         "answer": "150"
-      }
-    ]
-  }
+      },
+      
+         
+          {
+            "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer. Some students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event. The following facts are also known: 1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event. 2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both. 3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers. 4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event. 5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event. Q2. Which of the following can be determined from the given information?\n\nI. The number of boys who are interested in attending a 1-day event and are neither dancers nor singers.\nII. The number of female dancers who are interested in attending a 1-day event.",
+            "options": [
+              "Neither I nor II",
+              "Both I and II",
+              "Only I",
+              "Only II"
+            ],
+            "answer": "Only II"
+            
+          },
+          {
+            "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer. Some students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event. The following facts are also known: 1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event. 2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both. 3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers. 4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event. 5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event. Q3. What fraction of the class are interested in attending a 2-day event?",
+            "options": [
+              "7/10",
+              "9/13",
+              "7/13",
+              "2/3"
+            ],
+            "answer": "7/13"
+           
+          },
+          {
+            "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer. Some students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event. The following facts are also known: 1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event. 2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both. 3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers. 4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event. 5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event. Q4. What BEST can be concluded about the number of male dancers who are interested in attending a 1-day event?",
+            "options": [
+              "5 or 6",
+              "4 or 6",
+              "5",
+              "6"
+            ],
+            "answer": "5 or 6"},
+            
+          {
+            "question": "There are 15 girls and some boys among the graduating students in a class. They are planning a get-together, which can be either a 1-day event, or a 2-day event, or a 3-day event. There are 6 singers in the class, 4 of them are boys. There are 10 dancers in the class, 4 of them are girls. No dancer in the class is a singer. Some students are not interested in attending the get-together. Those students who are interested in attending a 3-day event are also interested in attending a 2-day event; those who are interested in attending a 2-day event are also interested in attending a 1-day event. The following facts are also known: 1. All the girls and 80% of the boys are interested in attending a 1-day event. 60% of the boys are interested in attending a 2-day event. 2. Some of the girls are interested in attending a 1-day event, but not a 2-day event; some of the other girls are interested in attending both. 3. 70% of the boys who are interested in attending a 2-day event are neither singers nor dancers. 60% of the girls who are interested in attending a 2-day event are neither singers nor dancers. 4. No girl is interested in attending a 3-day event. All male singers and 2 of the dancers are interested in attending a 3-day event. 5. The number of singers interested in attending a 2-day event is one more than the number of dancers interested in attending a 2-day event. Q5. How many female dancers are interested in attending a 2-day event?",
+            "options": [
+              "0",
+              "2",
+              "Cannot be determined",
+              "1"
+            ],
+            "answer": "0"
+           
+          },
+              {
+                "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals. The following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5. How many goals were scored in Match 7?",
+                "options": [
+                  "3",
+                  "Cannot be determined",
+                  "2",
+                  "1"
+                ],
+                "answer": "1"
+               
+              },
+              {
+                "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals. The following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5. Which of the following is the correct sequence of goals scored in matches 1, 3, 5 and 7?",
+                "options": [
+                  "3, 1, 2, 1",
+                  "4, 1, 2, 1",
+                  "5, 1, 0, 1",
+                  "3, 2, 1, 2"
+                ],
+                "answer": "4, 1, 2, 1"
+              
+              },
+              {
+                "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals. The following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5. Which of the following statement(s) is/are true?\n\nStatement-1: Amla and Sarita never scored goals in the same match.\nStatement-2: Harita and Sarita never scored goals in the same match.",
+                "options": [
+                  "Statement-1 only",
+                  "Both the statements",
+                  "None of the statements",
+                  "Statement-2 only"
+                ],
+                "answer": "Both the statements"
+               
+              },
+              {
+                "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals. The following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5. Which of the following statement(s) is/are false?\n\nStatement-1: In every match at least one player scored a goal.\nStatement-2: No two players scored goals in the same number of matches.",
+                "options": [
+                  "None of the statements",
+                  "Statement-1 only",
+                  "Statement-2 only",
+                  "Both the statements"
+                ],
+                "answer": "None of the statements"
+                
+              },
+              {
+                "question": "The management of a university hockey team was evaluating performance of four women players - Amla, Bimla, Harita and Sarita for their possible selection in the university team for next year. For this purpose, the management was looking at the number of goals scored by them in the past 8 matches, numbered 1 through 8. The four players together had scored a total of 12 goals in these matches. In the 8 matches, each of them had scored at least one goal. No two players had scored the same total number of goals. The following facts are known about the goals scored by these four players only. All the questions refer only to the goals scored by these four players.\n\n1. Only one goal was scored in every even numbered match.\n2. Harita scored more goals than Bimla.\n3. The highest goal scorer scored goals in exactly 3 matches including Match 4 and Match 8.\n4. Bimla scored a goal in Match 1 and one each in three other consecutive matches.\n5. An equal number of goals were scored in Match 3 and Match 7, which was different from the number of goals scored in either Match 1 or Match 5.\n6. The match in which the highest number of goals was scored was unique and it was not Match 5. If Harita scored goals in one more match as compared to Sarita, which of the following statement(s) is/are necessarily true?\n\nStatement-1: Amla scored goals in consecutive matches.\nStatement-2: Sarita scored goals in consecutive matches.",
+                "options": [
+                  "None of the statements",
+                  "Statement-1 only",
+                  "Both the statements",
+                  "Statement-2 only"
+                ],
+                "answer": "None of the statements"
+              }
+            ]
+          }
+          
+        
+      
+    
   

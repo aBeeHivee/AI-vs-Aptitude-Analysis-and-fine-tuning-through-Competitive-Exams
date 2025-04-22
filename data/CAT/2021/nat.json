@@ -66,6 +66,12 @@
     {
       "question": "Let D and E be points on sides AB and AC, respectively, of a triangle ABC, such that AD : BD = 2:1 and AE : CE = 2:3. If the area of the triangle ADE is 8 sq cm, then the area of the triangle ABC, in sq cm, is",
       "answer": "30"
+    },
+    {
+      "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, how many papers were written by Indian authors?",
+      "answer":  "8"
+      
+     
     }
 ]
 }

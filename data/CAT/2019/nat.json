@@ -49,7 +49,7 @@
       },
       {
         "question": "With rectangular axes of coordinates, the number of paths from (1,1) to (8,10) via (4,6), where each step from any point (x,y) is either to (x,y+1) or to (x+1,y) is?",
-        "answer": "3290"
+        "answer": "3920"
       },
       {
         "question": "Let T be the triangle formed by the straight line 3x + 5y - 45 = 0 and the coordinate axes. Let the circumcircle of T have radius of length L, measured in the same unit as the coordinate axes. Then, the integer closest to L is?",
@@ -118,6 +118,14 @@
       {
         "question": "John gets Rs 57 per hour of regular work and Rs 114 per hour of overtime work. He works altogether 172 hours and his income from overtime hours is 15% of his income from regular hours. Then, for how many hours did he work overtime?",
         "answer":"12"
+      },
+      {
+        "question": "A new game show on TV has 100 boxes numbered 1, 2, ....., 100 in a row, each containing a mystery prize. The prizes are items of different types, a, b, c, ....., in decreasing order of value. The most expensive item is of type a, a diamond ring, and there is exactly one of these. You are told that the number of items at least doubles as you move to the next type. For example, there would be at least twice as many items of type b as of type a, at least twice as many items of type c as of type b and so on. There is no particular order in which the prizes are placed in the boxes. What is the minimum possible number of different types of prizes?",
+        "answer": "2"
+      },
+      {
+        "question": "A new game show on TV has 100 boxes numbered 1, 2, ....., 100 in a row, each containing a mystery prize. The prizes are items of different types, a, b, c, ....., in decreasing order of value. The most expensive item is of type a, a diamond ring, and there is exactly one of these. You are told that the number of items at least doubles as you move to the next type. For example, there would be at least twice as many items of type b as of type a, at least twice as many items of type c as of type b and so on. There is no particular order in which the prizes are placed in the boxes. What is the maximum possible number of different types of prizes?",
+        "answer": "6"
       }
   ]
 }

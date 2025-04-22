@@ -308,12 +308,66 @@
             "question": "The number of common terms in the two sequences: 15, 19, 23, 27, ...... , 415 and 14, 19, 24, 29, ...... , 464 is?",
             "options": ["20", "18", "21", "19"],
             "answer": "20"
-          }
+          },
+          
+              {
+                "question": "A new game show on TV has 100 boxes numbered 1, 2, ....., 100 in a row, each containing a mystery prize. The prizes are items of different types, a, b, c, ....., in decreasing order of value. The most expensive item is of type a, a diamond ring, and there is exactly one of these. You are told that the number of items at least doubles as you move to the next type. For example, there would be at least twice as many items of type b as of type a, at least twice as many items of type c as of type b and so on. There is no particular order in which the prizes are placed in the boxes. Which of the following is not possible? There are exactly 30 items of type b. There are exactly 75 items of type e. There are exactly 60 items of type d. There are exactly 45 items of type c.Which of the following is not possible?",
+                "options": ["There are exactly 30 items of type b.","There are exactly 75 items of type e." , "There are exactly 60 items of type d.","There are exactly 45 items of type c." ],
+                "answer": "There are exactly 45 items of type c."
+              },
+              {
+                 "question": "A new game show on TV has 100 boxes numbered 1, 2, ....., 100 in a row, each containing a mystery prize. The prizes are items of different types, a, b, c, ....., in decreasing order of value. The most expensive item is of type a, a diamond ring, and there is exactly one of these. You are told that the number of items at least doubles as you move to the next type. For example, there would be at least twice as many items of type b as of type a, at least twice as many items of type c as of type b and so on. There is no particular order in which the prizes are placed in the boxes. Which of the following is not possible? There are exactly 30 items of type b. There are exactly 75 items of type e. There are exactly 60 items of type d. There are exactly 45 items of type C.You ask for the type of item in box 45. Instead of being given a direct answer, you are told that there are 31 items of the same type as box 45 in boxes 1 to 44 and 43 items of the same type as box 45 in boxes 46 to 100. What is the maximum possible number of different types of items?",
+                "options": [5, 6, 3, 4],
+                "answer": "5"
+              },
+              
+                  {
+                    "question": "Princess, Queen, Rani and Samragni were the four finalists in a dance competition. Ashman, Badal, Gagan and Dyu were the four music composers who individually assigned items to the dancers. Each dancer had to individually perform in two dance items assigned by the different composers. The first items performed by the four dancers were all assigned by different music composers. No dancer performed her second item before the performance of the first item by any other dancers. The dancers performed their second items in the same sequence of their performance of their first items. The following additional facts are known. i) No composer who assigned item to Princess, assigned any item to Queen. ii) No composer who assigned item to Rani, assigned any item to Samragni. iii) The first performance was by Princess; this item was assigned by Badal. iv) The last performance was by Rani; this item was assigned by Gagan. v) The items assigned by Ashman were performed consecutively. The number of performances between items assigned by each of the remaining composers was the same. Which of the following is true?",
+                    "options": [
+                      "The third performance was composed by Ashman.",
+                      "The second performance was composed by Dyu.",
+                      "The second performance was composed by Gagan.",
+                      "The third performance was composed by Dyu."
+                    ],
+                    "answer": "The third performance was composed by Dyu."
+                  },
+                  {
+                    "question": "Princess, Queen, Rani and Samragni were the four finalists in a dance competition. Ashman, Badal, Gagan and Dyu were the four music composers who individually assigned items to the dancers. Each dancer had to individually perform in two dance items assigned by the different composers. The first items performed by the four dancers were all assigned by different music composers. No dancer performed her second item before the performance of the first item by any other dancers. The dancers performed their second items in the same sequence of their performance of their first items. The following additional facts are known. i) No composer who assigned item to Princess, assigned any item to Queen. ii) No composer who assigned item to Rani, assigned any item to Samragni. iii) The first performance was by Princess; this item was assigned by Badal. iv) The last performance was by Rani; this item was assigned by Gagan. v) The items assigned by Ashman were performed consecutively. The number of performances between items assigned by each of the remaining composers was the same. Which of the following is FALSE?",
+                    "options": [
+                      "Queen did not perform in any item composed by Gagan.",
+                      "Rani did not perform in any item composed by Badal.",
+                      "Samragni did not perform in any item composed by Ashman.",
+                      "Princess did not perform in any item composed by Dyu."
+                    ],
+                    "answer": "Queen did not perform in any item composed by Gagan."
+                  },
+                  {
+                    "question": "Princess, Queen, Rani and Samragni were the four finalists in a dance competition. Ashman, Badal, Gagan and Dyu were the four music composers who individually assigned items to the dancers. Each dancer had to individually perform in two dance items assigned by the different composers. The first items performed by the four dancers were all assigned by different music composers. No dancer performed her second item before the performance of the first item by any other dancers. The dancers performed their second items in the same sequence of their performance of their first items. The following additional facts are known. i) No composer who assigned item to Princess, assigned any item to Queen. ii) No composer who assigned item to Rani, assigned any item to Samragni. iii) The first performance was by Princess; this item was assigned by Badal. iv) The last performance was by Rani; this item was assigned by Gagan. v) The items assigned by Ashman were performed consecutively. The number of performances between items assigned by each of the remaining composers was the same. The sixth performance was composed by:",
+                    "options": [
+                      "Gagan",
+                      "Ashman",
+                      "Badal",
+                      "Dyu"
+                    ],
+                    "answer": "Badal"
+                  },
+                  {
+                    "question": "Princess, Queen, Rani and Samragni were the four finalists in a dance competition. Ashman, Badal, Gagan and Dyu were the four music composers who individually assigned items to the dancers. Each dancer had to individually perform in two dance items assigned by the different composers. The first items performed by the four dancers were all assigned by different music composers. No dancer performed her second item before the performance of the first item by any other dancers. The dancers performed their second items in the same sequence of their performance of their first items. The following additional facts are known. i) No composer who assigned item to Princess, assigned any item to Queen. ii) No composer who assigned item to Rani, assigned any item to Samragni. iii) The first performance was by Princess; this item was assigned by Badal. iv) The last performance was by Rani; this item was assigned by Gagan. v) The items assigned by Ashman were performed consecutively. The number of performances between items assigned by each of the remaining composers was the same. Which pair of performances were composed by the same composer?",
+                    "options": [
+                      "The third and the seventh",
+                      "The first and the seventh",
+                      "The first and the sixth",
+                      "The second and the sixth"
+                    ],
+                    "answer": "The first and the seventh"
+                  }
+                ]
+              }
+              
+            
         
         
     
   
       
-    ]
     
-  }

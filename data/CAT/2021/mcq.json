@@ -120,10 +120,116 @@
           "question": "If a certain weight of an alloy of silver and copper is mixed with 3 kg of pure silver, the resulting alloy will have 90% silver by weight. If the same weight of the initial alloy is mixed with 2 kg of another alloy which has 90% silver by weight, the resulting alloy will have 84% silver by weight. Then, the weight of the initial alloy, in kg, is:",
           "options": ["3.5", "4", "3", "2.5"],
           "answer": "3"
-        }
+        },
+       
+            {
+              "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, what is the correct sequence of number of papers written by B, C, E, and G, respectively?",
+              "options": [
+                "3, 1, 1, 3",
+                "1, 2, 2, 1",
+                "1, 2, 2, 3",
+                "1, 3, 3, 1"
+              ],
+              "answer": "1, 2, 2, 3"
+              
+            },
+          
+            {
+              "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, which of the following statement(s) MUST be true?",
+              "options": [
+                "Only Statement A",
+                "Neither of the statements",
+                "Both the statements",
+                "Only Statement B"
+              ],
+              "answer": "Only Statement A"
+             
+            },
+            {
+              "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, which of the following statements is FALSE?",
+              "options": [
+                "Every issue had exactly one paper by a Chinese author.",
+                "Every issue had at least one paper by author(s) from Automation area.",
+                "Every issue had exactly two papers by authors from Logistics area.",
+                "Every issue had exactly two papers by Indian authors."
+              ],
+              "answer": "Every issue had exactly two papers by authors from Logistics area.."
+              
+            },
+            {
+              "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, which of the following statements is FALSE?",
+              "options": [
+                "There was exactly one paper by an author from Logistics area in the October issue.",
+                "There was exactly one paper by an author from Manufacturing area in the April issue.",
+                "There were exactly two papers by authors from Manufacturing area in the July issue.",
+                "There were exactly two papers by authors from Manufacturing area in the January issue."
+              ],
+              "answer": "There were exactly two papers by authors from Manufacturing area in the July issue."
+             
+            },
+            {
+              "question": "A journal plans to publish 18 research papers, written by eight authors (A, B, C, D, E, F, G, and H) in four issues of the journal scheduled in January, April, July, and October. Each of the research papers was written by exactly one of the eight authors. Five papers were scheduled in each of the first two issues, while four were scheduled in each of the last two issues. Every author wrote at least one paper and at most three papers. The total number of papers written by A, D, G, and H was double the total number of papers written by the other four authors. Four of the authors were from India and two each were from Japan and China. Each author belonged to exactly one of the three areas — Manufacturing, Automation, and Logistics. Four of the authors were from the Logistics area and two were from the Automation area. As per the journal policy, none of the authors could have more than one paper in any issue of the journal. Based on this, which of the following is the correct sequence of number of papers by authors from Automation, Manufacturing, and Logistics areas, respectively?",
+              "options": [
+                "6, 5, 7",
+                "6, 7, 5",
+                "5, 6, 7",
+                "6, 6, 6"
+              ],
+              "answer": "6, 5, 7"
+              
+            },
+            
+                {
+                  "question": "In the game of Chango, 12 players participated in a Chango championship. They were divided into four groups: Group A consisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi; and Group D consisted of Dipen, Donna, and Deb. Players within each group had a distinct rank going into the championship. The players have NOT been listed necessarily according to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the winner of that game plays against the first ranked player of the group. The winner of this second game is considered as the winner of the group and enters a semi-final. The winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play against each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the winner of the championship. Who among the following was DEFINITELY NOT ranked first in his/her group?",
+                  "options": [
+                    "Chitra",
+                    "Aruna",
+                    "Dipen",
+                    "Brij"
+                  ],
+                  "answer": "Dipen"
+                 
+                },
+                {
+                  "question": "In the game of Chango, 12 players participated in a Chango championship. They were divided into four groups: Group A consisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi; and Group D consisted of Dipen, Donna, and Deb. Players within each group had a distinct rank going into the championship. The players have NOT been listed necessarily according to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the winner of that game plays against the first ranked player of the group. The winner of this second game is considered as the winner of the group and enters a semi-final. The winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play against each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the winner of the championship. Which of the following pairs must have played against each other in the championship?",
+                  "options": [
+                    "Azul, Biju",
+                    "Donna, Chetan",
+                    "Deb, Donna",
+                    "Chitra, Dipen"
+                  ],
+                  "answer": "Chitra, Dipen"
+                 
+                },
+                {
+                  "question": "In the game of Chango, 12 players participated in a Chango championship. They were divided into four groups: Group A consisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi; and Group D consisted of Dipen, Donna, and Deb. Players within each group had a distinct rank going into the championship. The players have NOT been listed necessarily according to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the winner of that game plays against the first ranked player of the group. The winner of this second game is considered as the winner of the group and enters a semi-final. The winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play against each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the winner of the championship. Who won the championship?",
+                  "options": [
+                    "Brij",
+                    "Chitra",
+                    "Cannot be determined",
+                    "Aruna"
+                  ],
+                  "answer": "Aruna"
+                 
+                },
+                {
+                  "question": "In the game of Chango, 12 players participated in a Chango championship. They were divided into four groups: Group A consisted of Aruna, Azul, and Arif; Group B consisted of Brinda, Brij, and Biju; Group C consisted of Chitra, Chetan, and Chhavi; and Group D consisted of Dipen, Donna, and Deb. Players within each group had a distinct rank going into the championship. The players have NOT been listed necessarily according to their ranks. In the group stage of the game, the second and third ranked players play against each other, and the winner of that game plays against the first ranked player of the group. The winner of this second game is considered as the winner of the group and enters a semi-final. The winners from Groups A and B play against each other in one semi-final, while the winners from Groups C and D play against each other in the other semi-final. The winners of the two semi-finals play against each other in the final to decide the winner of the championship. Who among the following did NOT play against Chitra in the championship?",
+                  "options": [
+                    "Aruna",
+                    "Dipen",
+                    "Chetan",
+                    "Biju"
+                  ],
+                  "answer": "Biju"
+                 
+                }
+              ]
+            }
+            
+          
+        
       
       
-    ]
-  }
+    
   
   

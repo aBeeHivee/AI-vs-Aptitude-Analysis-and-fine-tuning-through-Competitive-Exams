@@ -229,12 +229,79 @@
           "question": "Aron bought some pencils and sharpeners. Spending the same amount of money as Aron, Aditya bought twice as many pencils and 10 fewer sharpeners. If the cost of one sharpener is 2 more than the cost of a pencil, then the minimum possible number of pencils bought by Aron and Aditya together is:",
           "options": ["33", "27", "30", "36"],
           "answer": "33"
+        },
+        {
+         
+            
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - In which of the following years were there two or more contracts?",
+              "options": [
+                "2017",
+                "2018",
+                "2016",
+                "2015"
+              ],
+              "answer": "2015"
+              
+            },
+            {
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - Which of the following is true?",
+              "options": [
+                "B had a contract with Y in 2019",
+                "D had a contract with X in 2011",
+                "B had a contract with Z in 2017",
+                "D had a contract with Y in 2019"
+              ],
+              "answer": "D had a contract with Y in 2019"
+              
+            },
+            {
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - In how many years during this period was there only one contract?",
+              "options": [
+                "3",
+                "4",
+                "2",
+                "5"
+              ],
+              "answer": "3"
+             
+            },
+            {
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - What BEST can be concluded about the number of contracts in 2010?",
+              "options": [
+                "exactly 3",
+                "at least 3",
+                "at least 4",
+                "exactly 4"
+              ],
+              "answer": "exactly 3"},
+             
+            {
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - Which institutes had multiple contracts during the same year?",
+              "options": [
+                "B and C only",
+                "A only",
+                "B only",
+                "A and B only"
+              ],
+              "answer": "A and B only"
+           
+            },
+            {
+              "question": "Four institutes, A, B, C, and D, had contracts with four vendors W, X, Y, and Z during the ten calendar years from 2010 to 2019. The contracts were either multi-year contracts running for several consecutive years or single-year contracts. No institute had more than one contract with the same vendor. However, in a calendar year, an institute may have had contracts with multiple vendors, and a vendor may have had contracts with multiple institutes. It is known that over the decade, the institutes each got into two contracts with two of these vendors, and each vendor got into two contracts with two of these institutes. The following facts are also known about these contracts.\n\nI. Vendor Z had at least one contract in every year.\nII. Vendor X had one or more contracts in every year up to 2015, but no contract in any year after that.\nIII. Vendor Y had contracts in 2010 and 2019. Vendor W had contracts only in 2012.\nIV. There were five contracts in 2012.\nV. There were exactly four multi-year contracts. Institute B had a 7-year contract, D had a 4-year contract, and A and C had one 3-year contract each. The other four contracts were single-year contracts.\nVI. Institute C had one or more contracts in 2012 but did not have any contract in 2011.\nVII. Institutes B and D each had exactly one contract in 2012. Institute D did not have any contract in 2010. - Which institutes and vendors had more than one contract in any year?",
+              "options": [
+                "B, W, X, and Z",
+                "B, D, W, and X",
+                "A, B, W, and X",
+                "A, D, W, and Z"
+              ],
+              "answer": "A, B, W, and X"
+            }
+          ]
         }
+        
       
       
     
     
-    ]
-      
-    }
+    
   

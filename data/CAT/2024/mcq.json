@@ -1,19 +1,11 @@
 {
   "questions": [
     {
-<<<<<<< HEAD
       "question": "If (a+bn−−√) is the positive square root of (29−125–√), where a and b are integers, and n is a natural number, then the maximum possible value of (a+b+n) is",
       "options": ["22", "6", "18", "4"],
       "answer": "18"
     },
  
-=======
-      "question": "If (a+b√n) is the positive square root of (29−12√5), where a and b are integers, and n is a natural number, then the maximum possible value of (a+b+n) is",
-      "options": ["22", "6", "18", "4"],
-      "answer": "18"
-    },
-    
->>>>>>> origin/main
     {
       "question": "In the XY-plane, the area, in sq. units, of the region defined by the inequalities y ≥ x + 4 and −4 ≤ x^2 + y^2 + 4(x−y) ≤ 0 is",
       "options": ["4π", "2π", "π", "3π"],
@@ -39,15 +31,11 @@
       "options": ["16", "14", "12", "18"],
       "answer": "12"
     },
-<<<<<<< HEAD
     {
       "question": "The surface area of a closed rectangular box, which is inscribed in a sphere, is 846 sq cm, and the sum of the lengths of all its edges is 144 cm. The volume, in cubic cm, of the sphere is",
       "options": ["750π", "1125π√2", "1125π", "750π√2"],
       "answer": "1125√2π"
     },
-=======
-    
->>>>>>> origin/main
     {
       "question": "A glass is filled with milk. Two-thirds of its content is poured out and replaced with water. If this process of pouring out two-thirds the content and replacing with water is repeated three more times, then the final ratio of milk to water in the glass, is",
       "options": ["1:27", "1:81", "1:26", "1:80"],
@@ -58,12 +46,6 @@
       "options": ["10", "15", "20", "14"],
       "answer": "14"
     },
-<<<<<<< HEAD
-    
-      {
-        "question": "For some constant real numbers p, k and a, consider the following system of linear equations in x and y:\npx − 4y = 2\n3x + ky = a\nA necessary condition for the system to have no solution for (x, y) is",
-        "options": ["2a + k ≠ 0", "ap − 6 = 0", "ap + 6 = 0", "kp + 12 ≠ 0"],
-=======
     {
       "question": "In September, the incomes of Kamal, Amal and Vimal are in the ratio 8 : 6 : 5. They rent a house together, and Kamal pays 15%, Amal pays 12% and Vimal pays 18% of their respective incomes to cover the total house rent in that month. In October, the house rent remains unchanged while their incomes increase by 10%, 12% and 15%, respectively. In October, the percentage of their total income that will be paid as house rent, is nearest to",
       "options": ["14.84", "12.75", "13.26", "15.18"],
@@ -78,7 +60,6 @@
       {
         "question": "For some constant real numbers p, k and a, consider the following system of linear equations in x and y:\npx − 4y = 2\n3x + ky = a\nA necessary condition for the system to have no solution for (x, y) is",
         "options": ["2a + k ≠ 0", "ap - 6 = 0", "ap + 6 = 0", "kp + 12 ≠ 0"],
->>>>>>> origin/main
         "answer": "2a + k ≠ 0"
       },
       {
@@ -88,28 +69,13 @@
       },
       {
         "question": "A circular plot of land is divided into two regions by a chord of length 10√3 meters such that the chord subtends an angle of 120° at the center. Then, the area, in square meters, of the smaller region is",
-<<<<<<< HEAD
         "options": ["25(4π/3 + √3)", "20(4π/3 − √3)", "25(4π/3 − √3)", "20(4π/3 + √3)"],
         "answer": "25(4π/3 − √3)"
-=======
-        "options": ["25(4π/3 + √3)", "20(4π/3 - √3)", "25(4π/3 - √3)", "20(4π/3 + √3)"],
-        "answer": "25(4π/3 - √3)"
->>>>>>> origin/main
       },
       {
         "question": "In a group of 250 students, the percentage of girls was at least 44% and at most 60%. The rest of the students were boys. Each student opted for either swimming or running or both. If 50% of the boys and 80% of the girls opted for swimming while 70% of the boys and 60% of the girls opted for running, then the minimum and maximum possible number of students who opted for both swimming and running are",
         "options": ["72 and 80", "75 and 90", "72 and 88", "75 and 96"],
         "answer": "72 and 80"
-<<<<<<< HEAD
-      },
-    
-      {
-        "question": "After two successive increments, Gopal's salary became 187.5% of his initial salary. If the percentage of salary increase in the second increment was twice that of the first increment, then the percentage of salary increase in the first increment was",
-        "options": ["27.5", "30", "25", "20"],
-        "answer": "25"
-      },
-      {
-=======
       },
       {
         "question": "If 10^68 is divided by 13, the remainder is",
@@ -122,7 +88,6 @@
         "answer": "25"
       },
       {
->>>>>>> origin/main
         "question": "Sam can complete a job in 20 days when working alone. Mohit is twice as fast as Sam and thrice as fast as Ayna in the same job. They undertake a job with an arrangement where Sam and Mohit work together on the first day, Sam and Ayna on the second day, Mohit and Ayna on the third day, and this three-day pattern is repeated till the work gets completed. Then, the fraction of total work done by Sam is",
         "options": ["3/20", "3/10", "1/20", "1/5"],
         "answer": "3/10"
@@ -137,7 +102,6 @@
         "options": ["780", "720", "640", "800"],
         "answer": "720"
       },
-<<<<<<< HEAD
       
         {
           "question": "If x and y satisfy the equations |x|+x+y=15 and x+|y|−y=20, then (x−y) equals",
@@ -149,20 +113,6 @@
           "options": ["209932", "209937", "209947", "209942"],
           "answer": "209947"
         },
-=======
-      {
-        "question": "For any non-zero real number x, let f(x) + 2f(1/x) = 3x. Then, the sum of all possible values of x for which f(x) = 3, is",
-        "options": ["2", "-3", "-2", "3"],
-        "answer": "-3"
-      },
-    
-        {
-          "question": "If x and y satisfy the equations |x|+x+y=15 and x+|y|-y=20, then (x-y) equals",
-          "options": ["10", "5", "20", "15"],
-          "answer": "15"
-        },
-        
->>>>>>> origin/main
         {
           "question": "A function f maps the set of natural numbers to whole numbers, such that f(xy)=f(x)f(y)+f(x)+f(y) for all x,y and f(p)=1 for every prime number p. Then, the value of f(160000) is",
           "options": ["1023", "4095", "2047", "8191"],

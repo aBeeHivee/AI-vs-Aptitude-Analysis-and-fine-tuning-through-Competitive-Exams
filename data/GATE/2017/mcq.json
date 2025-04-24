@@ -79,6 +79,51 @@
           "(D) 14"
         ],
         "answer": "(D) 14"
+      },
+      {
+        "question": "Choose the option with words that are not synonyms",
+        "options": [
+          "(A) aversion, dislike",
+          "(B) luminous, radiant",
+          "(C) plunder, loot",
+          "(D) bright, radiant"
+        ]
+      },
+      {
+        "question": "Saturn is ________ to be seen on a clear night with the naked eye.",
+        "options": [
+          "(A) enough bright",
+          "(B) bright enough",
+          "(C) as enough bright",
+          "(D) bright as enough"
+        ]
+      },
+      {
+        "question": "There are five buildings called V, W, X, Y, and Z in a row (not necessarily in that order). V is to the West of X, Z is to the East of X and the West of W, W is to the West of Y. Which is the building in the middle?",
+        "options": [
+          "(A) V",
+          "(B) X",
+          "(C) Z",
+          "(D) Y"
+        ]
+      },
+      {
+        "question": "A test has twenty questions worth 100 marks in total. There are twelve questions worth 10 marks each and eight questions worth 3 marks each. How many multiple choice questions does the exam have?",
+        "options": [
+          "(A) 12",
+          "(B) 16",
+          "(C) 18",
+          "(D) 19"
+        ]
+      },
+      {
+        "question": "There are 3 red socks, 4 green socks, and 3 blue socks. You choose 2 socks. The probability that they are of the same colour is",
+        "options": [
+          "(A) 3/7",
+          "(B) 7/30",
+          "(C) 1/4",
+          "(D) 4/15"
+        ]
       }
     ]
   }

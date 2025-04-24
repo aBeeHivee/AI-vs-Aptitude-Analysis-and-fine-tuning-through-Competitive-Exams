@@ -43,7 +43,11 @@
       {
         "question": "The salaries of three friends Sita, Gita, and Mita are initially in the ratio 5:6:7, respectively. In the first year, they get salary hikes of 20%, 25%, and 20%, respectively. In the second year, Sita and Mita get salary hikes of 40% and 25%, respectively, and the salary of Gita becomes equal to the mean salary of the three friends. The salary hike of Gita in the second year is:",
         "options": ["26%", "30%", "28%", "25%"],
+<<<<<<< HEAD
         "answer": "26%"
+=======
+        "answer": "28%"
+>>>>>>> origin/main
       },
       {
         "question": "The minor angle between the hour hand and the minute hand of a clock was observed at 8:48 am. The minimum duration, in minutes, after 8:48 am when this angle increases by 50% is:",

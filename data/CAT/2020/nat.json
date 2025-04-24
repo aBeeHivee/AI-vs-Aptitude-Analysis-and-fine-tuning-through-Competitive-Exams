@@ -83,6 +83,7 @@
       {
         "question": "If a, b, c are non-zero and 14a = 36b = 84c, then 6b(1/c - 1/a) equals to:",
         "answer": "3"
+<<<<<<< HEAD
       },
       
           {
@@ -106,4 +107,10 @@
       
   
     
+=======
+      }
+  
+    ]
+  }
+>>>>>>> origin/main
   

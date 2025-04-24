@@ -148,10 +148,10 @@
       {
         "question": "Match the items in Column 1 with the items in Column 2: Column 1: (p) First In First Out, (q) Lookup Operation, (r) Last In First Out. Column 2: (i) Stacks, (ii) Queues, (iii) Hash Tables.",
         "options": [
-          "(A) (p) − (ii), (q) − (iii), (r) − (i)",
-          "(B) (p) − (ii), (q) − (i), (r) − (iii)",
-          "(C) (p) − (i), (q) − (ii), (r) − (iii)",
-          "(D) (p) − (i), (q) − (iii), (r) − (ii)"
+          "(A) (p) - (ii), (q) - (iii), (r) - (i)",
+          "(B) (p) - (ii), (q) - (i), (r) - (iii)",
+          "(C) (p) - (i), (q) - (ii), (r) - (iii)",
+          "(D) (p) - (i), (q) - (iii), (r) - (ii)"
         ],
         "answer": "(A) (p) − (ii), (q) − (iii), (r) − (i)"
       },

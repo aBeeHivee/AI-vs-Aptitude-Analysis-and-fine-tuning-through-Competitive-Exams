@@ -50,7 +50,41 @@
         "options": ["24", "18", "20", "12"],
         "answer": "18"
       },
-    
+      {
+        "question": "If a and b are non-negative real numbers such that a+2b = 6, then the average of the maximum and minimum possible values of (a+b) is:",
+        "options": ["3.5", "4.5", "3", "4"],
+        "answer": "4.5"
+      },
+      {
+        "question": "The length of each side of an equilateral triangle ABC is 3 cm. Let D be a point on BC such that the area of triangle ADC is half the area of triangle ABD. Then the length of AD, in cm, is:",
+        "options": ["√7", "√6", "√8", "√5"],
+        "answer": "√6"
+      },
+      {
+        "question": "The number of integers greater than 2000 that can be formed with the digits 0, 1, 2, 3, 4, 5, using each digit at most once, is:",
+        "options": ["1480", "1440", "1200", "1420"],
+        "answer": "1440"
+      },
+      {
+        "question": "Let f(x) be a quadratic polynomial in x such that f(x) ≥ 0 for all real numbers x. If f(2)=0 and f(4)=6, then f(–2) is equal to:",
+        "options": ["36", "12", "24", "6"],
+        "answer": "24"
+      },
+      {
+        "question": "Manu earns ₹4000 per month and wants to save an average of ₹550 per month in a year. In the first nine months, his monthly expense was ₹3500, and he foresees that, tenth month onward, his monthly expense will increase to ₹3700. In order to meet his yearly savings target, his monthly earnings, in rupees, from the tenth month onward should be:",
+        "options": ["4350", "4400", "4300", "4200"],
+        "answer": "4400"
+      },
+      {
+        "question": "In an election, there were four candidates and 80% of the registered voters cast their votes. One of the candidates received 30% of the casted votes while the other three candidates received the remaining casted votes in the proportion 1:2:3. If the winner of the election received 2512 votes more than the candidate with the second-highest votes, then the number of registered voters was:",
+        "options": ["62800", "50240", "40192", "60288"],
+        "answer": "50240"
+      },
+      {
+        "question": "On day one, there are 100 particles in a laboratory experiment. On day n, where n ≥ 2, one out of every n particles produces another particle. If the total number of particles in the laboratory experiment increases to 1000 on day m, then m equals:",
+        "options": ["19", "17", "16", "18"],
+        "answer": "18"
+      },
       {
         "question": "A group of N people worked on a project. They finished 35% of the project by working 7 hours a day for 10 days. Thereafter, 10 people left the group and the remaining people finished the rest of the project in 14 days by working 10 hours a day. Then the value of N is:",
         "options": ["140", "36", "150","28"],

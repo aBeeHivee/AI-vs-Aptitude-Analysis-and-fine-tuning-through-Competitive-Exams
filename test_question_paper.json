@@ -1,0 +1,151 @@
+{
+    "questions": [
+      {
+        "question": "S is a set given by S = {1, 2, 3, ..., 4n}, where n is a natural number. S is partitioned into n disjoint subsets A₁, A₂, ..., Aₙ, each containing four elements. It is given that in every one of these subsets, there is one element which is the arithmetic mean of the other three elements. Which of the following statements is then true?",
+        "options": [
+          "(A) n ≠ 1 and n ≠ 2",
+          "(B) n ≠ 1 but can be equal to 2",
+          "(C) n ≠ 2 but can be equal to 1",
+          "(D) It is possible to satisfy the requirements for n = 1 as well as for n = 2"
+        ],
+        "answer": "(D) It is possible to satisfy the requirements for n = 1 as well as for n = 2"
+      },
+      {
+        "question": "A taxi driver says, 'If you divide the number of my taxi by 2, 3, 4, 5, or 6, each time you will find a remainder of one. But, if you divide it by 11, the remainder is zero. You will also not find any other driver with a taxi having a lower number who can say the same.' What is the taxi number?",
+        "answer": "1001"
+      },
+      {
+        "question": "A and B started a business with investments of ₹20,000 and ₹35,000 respectively. After 6 months, A invested ₹10,000 more and B withdrew ₹5,000. After another 6 months, they received a profit of ₹84,000. What is A’s share in the profit?",
+        "options": [
+          "(A) ₹32,000",
+          "(B) ₹36,000",
+          "(C) ₹48,000",
+          "(D) ₹40,000"
+        ],
+        "answer": "(A) ₹32,000"
+      },
+      {
+        "question": "A man can row 6 km/hr in still water. If the river is running at 2 km/hr, it takes him 1 hour to row to a place and back. How far is the place (in km)?",
+        "answer": "2.4"
+      },
+      {
+        "question": "A man leaves his house and walks 10 meters towards the North. He then turns right and walks 5 meters. He again turns right and walks 10 meters. Finally, he turns left and walks 5 meters. How far is he from his house?",
+        "options": [
+          "(A) 0 meters",
+          "(B) 5 meters",
+          "(C) 10 meters",
+          "(D) 15 meters"
+        ],
+        "answer": "(B) 5 meters"
+      },
+      {
+        "question": "A person walks 12 meters towards the North, then turns right and walks 9 meters. He then turns right again and walks 12 meters. Finally, he turns left and walks 5 meters. How far is he from his starting point?",
+        "answer": "14"
+      },
+      {
+        "question": "Find the missing number in the series: 7, 26, 63, 124, 215, __.",
+        "options": [
+          "(A) 342",
+          "(B) 336",
+          "(C) 330",
+          "(D) 350"
+        ],
+        "answer": "(B) 336"
+      },
+      {
+        "question": "The sum of the first 'n' natural numbers is 171. Find 'n'.",
+        "answer": "18"
+      },
+      {
+        "question": "Glacier : Erosion :: Wind : ____",
+        "options": [
+          "(A) Corrosion",
+          "(B) Deposition",
+          "(C) Deflation",
+          "(D) Dilution"
+        ],
+        "answer": "(C) Deflation"
+      },
+      {
+        "question": "Memory is to Mind as Fingerprint is to ________.",
+        "answer": "Identity"
+      },
+      {
+        "question": "Five friends – A, B, C, D, and E – are sitting on a bench.\n\n- A is sitting to the immediate left of C.\n- D is at one end.\n- E is sitting next to B but not next to D.\n- B is not sitting next to C.\n\nWho is sitting in the center?",
+        "options": [
+          "(A) A",
+          "(B) B",
+          "(C) C",
+          "(D) E"
+        ],
+        "answer": "(A) A"
+      },
+      {
+        "question": "In a family of six persons A, B, C, D, E, and F, there are two married couples.\n- D is a doctor and the father of E.\n- F is the grandfather of E and is a lawyer.\n- C is the mother of A.\n- B is the wife of D.\n- A is the brother of E.\n\nWhat is the relation between C and F? (Answer in one word)",
+        "answer": "Daughter"
+      },
+      {
+        "question": "A man travels 20% of a certain distance at a speed of 10 km/h, 60% of the distance at 20 km/h, and the remaining at 30 km/h. What is his average speed for the entire journey?",
+        "options": [
+          "(A) 18 km/h",
+          "(B) 20 km/h",
+          "(C) 24 km/h",
+          "(D) 25 km/h"
+        ],
+        "answer": "(A) 18 km/h"
+      },
+      {
+        "question": "A train covers a distance of 150 km at a uniform speed. If the speed of the train were 10 km/h more, it would have taken 30 minutes less. What is the speed of the train (in km/h)? (Answer in one word or number)",
+        "answer": "30"
+      },
+      {
+        "question": "A and B can complete a piece of work together in 12 days. A alone can complete the same work in 20 days. In how many days can B alone complete the work?",
+        "options": [
+          "(A) 30 days",
+          "(B) 40 days",
+          "(C) 50 days",
+          "(D) 60 days"
+        ],
+        "answer": "(B) 30 days"
+      },
+      {
+        "question": "A can complete a work in 12 days and B can do the same work in 18 days. If they work on alternate days starting with A, how many days will it take to complete the work? (Answer in one word or number)",
+        "answer": "13"
+      },
+      {
+        "question": "Eight friends: Ajit, Byomkesh, Gargi, Jayanta, Kikira, Manik, Prodosh and Tapesh are going to Delhi from Kolkata by a flight operated by Cheap Air. In the flight, sitting is arranged in 30 rows, numbered 1 to 30, each consisting of 6 seats, marked by letters A to F from left to right, respectively. Seats A to C are to the left of the aisle (the passage running from the front of the aircraft to the back), and seats D to F are to the right of the aisle. Seats A and F are by the windows and referred to as Window seats, C and D are by the aisle and are referred to as Aisle seats while B and E are referred to as Middle seats. Seats marked by consecutive letters are called consecutive seats (or seats next to each other). A seat number is a combination of the row number, followed by the letter indicating the position in the row; e.g., 1A is the left window seat in the first row, while 12E is the right middle seat in the 12th row.\n\nCheap Air charges Rs. 1000 extra for any seats in Rows 1, 12 and 13 as those have extra legroom. For Rows 2-10, it charges Rs. 300 extra for Window seats and Rs. 500 extra for Aisle seats. For Rows 11 and 14 to 20, it charges Rs. 200 extra for Window seats and Rs. 400 extra for Aisle seats. All other seats are available at no extra charge.\n\nThe following are known:\n1. The eight friends were seated in six different rows.\n2. They occupied 3 Window seats, 4 Aisle seats and 1 Middle seat.\n3. Seven of them had to pay extra amounts, totaling to Rs. 4600, for their choices of seat. One of them did not pay any additional amount for his/her choice of seat.\n4. Jayanta, Ajit and Byomkesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row numbers; but all of them paid different amounts for their choices of seat. One of these amounts may be zero.\n5. Gargi was sitting next to Kikira, and Manik was sitting next to Jayanta.\n6. Prodosh and Tapesh were sitting in seats marked by the same letter, in consecutive rows in increasing order of row numbers; but they paid different amounts for their choices of seat. One of these amounts may be zero.\n\nIn which row was Manik sitting?",
+        "options": [
+          "(A) 10",
+          "(B) 11",
+          "(C) 12",
+          "(D) 13"
+        ],
+        "answer": "(C) 12"
+      },
+      {
+        "question": "A tea taster was assigned to rate teas from six different locations - Munnar, Wayanad, Ooty, Darjeeling, Assam and Himachal. These teas were placed in six cups, numbered 1 to 6, not necessarily in the same order. The tea taster was asked to rate these teas on the strength of their flavour on a scale of 1 to 10. He gave a unique integer rating to each tea.\n\nSome other information is given below:\n1. Cup 6 contained tea from Himachal.\n2. Tea from Ooty got the highest rating, but it was not in Cup 3.\n3. The rating of tea in Cup 3 was double the rating of the tea in Cup 5.\n4. Only two cups got ratings in even numbers.\n5. Cup 2 got the minimum rating and this rating was an even number.\n6. Tea in Cup 3 got a higher rating than that in Cup 1.\n7. The rating of tea from Wayanad was more than the rating of tea from Munnar, but less than that from Assam.\n\nWhat was the second highest rating given?",
+        "answer": 7
+      },
+      {
+        "question": "Which of the following statements about the use of the internet in India is/are correct?\n1. The proportion of internet users in urban India is higher than in rural India.\n2. The internet penetration in India is higher than the global average.\n3. India has a higher proportion of internet users who access it via mobile devices compared to the global average.\nSelect the correct answer using the codes below:",
+        "options": [
+          "(a) 1 and 2 only",
+          "(b) 2 and 3 only",
+          "(c) 1 and 3 only",
+          "(d) 1, 2 and 3"
+        ],
+        "answer": "(c) 1 and 3 only"
+      },
+      {
+        "question": "Which of the following statements regarding the environment is/are correct?\n1. Biodegradable pollutants are harmful because they remain in the environment for a long time.\n2. The ozone layer plays an important role in preventing ultraviolet radiation from reaching the earth's surface.\n3. The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions.\nSelect the correct answer using the codes below:",
+        "options": [
+          "(a) 1 and 2 only",
+          "(b) 2 and 3 only",
+          "(c) 1 and 3 only",
+          "(d) 1, 2 and 3"
+        ],
+        "answer": "(b) 2 and 3 only"
+      }
+    ]
+  }
+  
